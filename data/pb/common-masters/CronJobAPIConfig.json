@@ -3,7 +3,7 @@
   "moduleName": "common-masters",
   "CronJobAPIConfig": [
     {
-      "jobName": "daily",
+      "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
       "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulerpendingcollection",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "jobName": "daily",
+      "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
       "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermonthsummary",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "jobName": "daily",
+      "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
       "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulernewexpenditure",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "jobName": "daily",
+      "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
       "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermarkexpensebill",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "jobName": "daily",
+      "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
       "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulergeneratedemand",
@@ -63,7 +63,7 @@
       }
     },
     {
-      "jobName": "daily",
+      "jobName": "dailyevening",
       "active": "true",
       "method": "POST",
       "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulerTodaysCollection",
