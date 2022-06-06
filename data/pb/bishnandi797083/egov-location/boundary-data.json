@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.bishnandi797083",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BISHNANDI797083",
+                "localname": "BISHNANDI797083",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bishnandi797083",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BISHNANDI797083",
+                        "localname": "BISHNANDI797083",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BISHNANDI797083",
+                "localname": "BISHNANDI797083",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.bishnandi797083",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BISHNANDI797083",
+                        "localname": "BISHNANDI797083",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

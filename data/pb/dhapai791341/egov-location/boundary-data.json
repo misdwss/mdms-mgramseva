@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.dhapai791341",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHAPAI791341",
+                "localname": "DHAPAI791341",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dhapai791341",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHAPAI791341",
+                        "localname": "DHAPAI791341",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHAPAI791341",
+                "localname": "DHAPAI791341",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.dhapai791341",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHAPAI791341",
+                        "localname": "DHAPAI791341",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

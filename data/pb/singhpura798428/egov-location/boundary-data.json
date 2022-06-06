@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.singhpura798428",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SINGHPURA798428",
+                "localname": "SINGHPURA798428",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.singhpura798428",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SINGHPURA798428",
+                        "localname": "SINGHPURA798428",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SINGHPURA798428",
+                "localname": "SINGHPURA798428",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.singhpura798428",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SINGHPURA798428",
+                        "localname": "SINGHPURA798428",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "pb.salempur12040",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SALEMPUR12040",
+                "localname": "SALEMPUR12040",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.salempur12040",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SALEMPUR12040",
+                        "localname": "SALEMPUR12040",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SALEMPUR12040",
+                "localname": "SALEMPUR12040",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.salempur12040",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SALEMPUR12040",
+                        "localname": "SALEMPUR12040",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
