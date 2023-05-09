@@ -12,6 +12,7 @@
       "stateLogoURL": "https://mgramseva-dwss.punjab.gov.in/mgramseva-dev-assets/logo/punjab-logo.png",
       "hasLocalisation": true,
       "enableWhatsApp": true,
+      "maxArrears": 10000,
       "defaultUrl": {
         "citizen": "/user/register",
         "employee": "/user/login"
