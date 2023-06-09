@@ -44,13 +44,13 @@
     },
     {
       "accountNumber": "3007440910",
-      "departmentEntityName": "Testing7",
-      "departmentEntityCode": "0007"
+      "departmentEntityName": "LODHIPUR",
+      "departmentEntityCode": "7374"
     },
     {
       "accountNumber": "3007441056",
-      "departmentEntityName": "Testing8",
-      "departmentEntityCode": "0008"
+      "departmentEntityName": "LALPUR",
+      "departmentEntityCode": "7216"
     },
     {
       "accountNumber": "3000607536",
@@ -58,7 +58,7 @@
       "departmentEntityCode": "7374"
     },{
       "accountNumber": "3002150433",
-      "departmentEntityName": "LODHIPUR",
+      "departmentEntityName": "LALPUR",
       "departmentEntityCode": "7216"
     }
 
