@@ -24,8 +24,8 @@
     },
     {
       "accountNumber": "3007440902",
-      "departmentEntityName": "Testing3",
-      "departmentEntityCode": "0003"
+      "departmentEntityName": "MOHIWAL",
+      "departmentEntityCode": "7394"
     },
     {
       "accountNumber": "3007440903",
@@ -56,11 +56,11 @@
       "accountNumber": "3000607536",
       "departmentEntityName": "testing8",
       "departmentEntityCode": "0008"
-    },{
+    },
+    {
       "accountNumber": "3002150433",
       "departmentEntityName": "testing9",
       "departmentEntityCode": "0009"
     }
-
   ]
 }
