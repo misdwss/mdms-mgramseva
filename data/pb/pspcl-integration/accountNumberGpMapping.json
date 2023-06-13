@@ -38,11 +38,6 @@
       "departmentEntityCode": "7382"
     },
     {
-      "accountNumber": "3007440909",
-      "departmentEntityName": "Testing6",
-      "departmentEntityCode": "0006"
-    },
-    {
       "accountNumber": "3007440910",
       "departmentEntityName": "LODHIPUR",
       "departmentEntityCode": "7374"
@@ -54,8 +49,13 @@
     },
     {
       "accountNumber": "3000607536",
-      "departmentEntityName": "testing8",
-      "departmentEntityCode": "0008"
+      "departmentEntityName": "DABOUR UPPER",
+      "departmentEntityCode": "15701"
+    },
+    {
+      "accountNumber": "3007440909",
+      "departmentEntityName": "Testing6",
+      "departmentEntityCode": "0006"
     },
     {
       "accountNumber": "3002150433",
