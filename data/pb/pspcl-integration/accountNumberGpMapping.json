@@ -1,0 +1,11 @@
+{
+  "tenantId": "pb",
+  "moduleName": "pspcl-integration",
+  "accountNumberGpMapping": [
+    {
+      "accountNumber": "3007440901",
+      "departmentEntityName": "LODHIPUR",
+      "departmentEntityCode": "7374"
+    }
+  ]
+}
