@@ -4,8 +4,11 @@
   "accountNumberGpMapping": [
     {
       "accountNumber": "3007440901",
-      "departmentEntityName": "LODHIPUR",
-      "departmentEntityCode": "7374"
+      "departmentEntityName": "BARUWAL",
+      "departmentEntityCode": "7278"
+    },
+    {
+
     }
   ]
 }
