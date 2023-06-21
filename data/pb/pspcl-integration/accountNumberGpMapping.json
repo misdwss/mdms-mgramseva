@@ -14,13 +14,28 @@
     },
     {
       "accountNumber": "3002150433",
-      "departmentEntityName": "KALOTA",
-      "departmentEntityCode": "7359"
+      "departmentEntityName": "CHANDPUR",
+      "departmentEntityCode": "7311"
     },
     {
       "accountNumber": "3000607536",
-      "departmentEntityName": "NARD",
-      "departmentEntityCode": "7402"
+      "departmentEntityName": "DABOUR UPPER",
+      "departmentEntityCode": "15701"
+    },
+    {
+      "accountNumber": "3007447237",
+      "departmentEntityName": "GANGUWAL",
+      "departmentEntityCode": "7335"
+    },
+    {
+      "accountNumber": "3007447315",
+      "departmentEntityName": "MAJHER",
+      "departmentEntityCode": "7378"
+    },
+    {
+      "accountNumber": "3007447302",
+      "departmentEntityName": "MAJHER",
+      "departmentEntityCode": "7378"
     }
   ]
 }
