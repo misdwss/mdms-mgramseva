@@ -24,6 +24,26 @@
     },
     {
       "category": "CHARGES",
+      "service": "EXPENSE.CHLORINATION",
+      "name": "EXPENSE.CHLORINATION",
+      "code": "20303",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.WATER_TREATMENT",
+      "name": "EXPENSE.WATER_TREATMENT",
+      "code": "20304",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
       "service": "EXPENSE.SALARY",
       "name": "Salary",
       "code": "20201",
@@ -34,8 +54,8 @@
     },
     {
       "category": "CHARGES",
-      "service": "EXPENSE.OM",
-      "name": "O&M",
+      "service": "EXPENSE.MACHINERY_REPAIR",
+      "name": "Machinery Repair",
       "code": "20301",
       "isDebit": true,
       "isActualDemand": false,
@@ -44,8 +64,8 @@
     },
     {
       "category": "CHARGES",
-      "service": "EXPENSE.MISC",
-      "name": "MISC",
+      "service": "EXPENSE.OTHERS",
+      "name": "Others",
       "code": "20401",
       "isDebit": true,
       "isActualDemand": false,
@@ -106,7 +126,7 @@
       "order": "2",
       "isRequired": false,
       "IsBillamend": true
-    }, 
+    },
     {
       "category": "PENALTY",
       "service": "WS",
@@ -183,6 +203,46 @@
       "order": "3",
       "isRequired": false,
       "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.PIPELINE_REPAIR",
+      "name": "Pipeline Repair",
+      "code": "20302",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.NEW_MACHINERY",
+      "name": "New Machinery",
+      "code": "40101",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.NEW_PIPELINE",
+      "name": "New Pipeline",
+      "code": "40102",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "EXPENSE.INCENTIVES",
+      "name": "Incentives",
+      "code": "20202",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": true
     }
   ]
 }
