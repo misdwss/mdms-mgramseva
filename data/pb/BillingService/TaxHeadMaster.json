@@ -45,7 +45,7 @@
     {
       "category": "CHARGES",
       "service": "EXPENSE.MISC",
-      "name": "EXPENSE.MISC",
+      "name": "MISC",
       "code": "20401",
       "isDebit": true,
       "isActualDemand": false,
