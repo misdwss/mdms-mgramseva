@@ -257,14 +257,6 @@
       "service": "EXPENSE.INCENTIVES",
       "code": "EXPENSEINCENTIVES",
       "financialYear": "2023-24"
-    },
-     {
-      "fromDate": 1680287400000,
-      "toDate": 1711909799999,
-      "periodCycle": "ANNUAL",
-      "service": "EXPENSE.MISC",
-      "code": "EXPENSEMISC",
-      "financialYear": "2023-24"
     }
   ]
 }
