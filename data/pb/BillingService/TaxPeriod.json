@@ -263,7 +263,7 @@
       "toDate": 1711909799999,
       "periodCycle": "ANNUAL",
       "service": "EXPENSE.MISC",
-      "code": "EXPENSEMISC,
+      "code": "EXPENSEMISC",
       "financialYear": "2023-24"
     }
   ]
