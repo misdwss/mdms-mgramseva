@@ -1302,6 +1302,17 @@
     "serviceCode": "echallan-services",
     "code": "null",
     "path": ""
+    },
+    {
+      "id": 2037,
+      "name": "SearchUser",
+      "url": "/user/_searchByTenant",
+      "displayName": "Search User by tenant",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
   ]
 }
