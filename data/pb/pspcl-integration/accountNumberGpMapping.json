@@ -46,7 +46,12 @@
       "accountNumber": "3005641365",
       "departmentEntityName": "KALOTA",
       "departmentEntityCode": "7359"
-    }
+    },
+   {
+      "accountNumber": "3000607536",
+      "departmentEntityName": "MINDWAL LOWER",
+      "departmentEntityCode": "7393"
+   }
 
   ]
 }
