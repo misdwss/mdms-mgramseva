@@ -3334,6 +3334,18 @@
       "actionid": 2037,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
