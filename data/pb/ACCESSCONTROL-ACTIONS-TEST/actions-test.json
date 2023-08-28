@@ -1274,6 +1274,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+	    {
+      "id": 2035,
+      "name": " collection report",
+      "url": "/ws-services/wc/_collectionReport",
+      "parentModule": "",
+      "displayName": "get collection report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
