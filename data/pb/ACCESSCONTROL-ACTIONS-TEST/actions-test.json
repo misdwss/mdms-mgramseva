@@ -1286,6 +1286,70 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2037,
+      "name": "CreateComplaint",
+      "url": "quickAction",
+      "displayName": "File Complaint",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Complaints.CreateComplaint",
+      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "quickAction": true,
+      "leftIcon": "content:add",
+      "rightIcon": ""
+    },
+    {
+      "id": 2038,
+      "name": "RainmakerPgrCreate",
+      "url": "/rainmaker-pgr/v1/requests/_create",
+      "displayName": "Rainmaker Pgr Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "rainmaker pgr",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2039,
+      "name": "RainmakerPgrUpdate",
+      "url": "/rainmaker-pgr/v1/requests/_update",
+      "displayName": "Rainmaker Pgr Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "rainmaker pgr",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2040,
+      "name": "RainmakerPgrSearch",
+      "url": "/rainmaker-pgr/v1/requests/_search",
+      "displayName": "Rainmaker Pgr Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "rainmaker pgr",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2041,
+      "name": "RainmakerPgrCount",
+      "url": "/rainmaker-pgr/v1/requests/_count",
+      "displayName": "Rainmaker Pgr Count",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "rainmaker pgr",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  

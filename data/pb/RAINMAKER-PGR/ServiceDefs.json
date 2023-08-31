@@ -1,0 +1,204 @@
+{
+    "tenantId": "pb",
+    "moduleName": "RAINMAKER-PGR",
+    "ServiceDefs": [
+        {
+            "serviceCode": "FaultInMachinery",
+            "name": "Fault in Machinery",
+            "keywords": "water, supply, connection, drink, dirty,bad, quality, contaminated, impure, health, clean",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "AbsenceOfOperator",
+            "name": "Absence of Operator",
+            "keywords": "water,absence,operator",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "LargeScaleLeakageInThePipes",
+            "name": "Large Scale Leakage in the Pipes",
+            "keywords": "water,leakage,pipes",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "BadQualityOfWater",
+            "name": "bad Quality of Water",
+            "keywords": "water, supply, connection, drink, dirty,bad, quality, contaminated, impure, health, clean",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "WaterSupplyFailureInSomeSpecificArea",
+            "name": "Water Supply failure in some specific area",
+            "keywords": "water, supply, connection, areas, failure",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "HouseholdWaterConnectionNotGivenbyGPWSC/DWSS",
+            "name": "Household water connection not given by GPWSC/DWSS",
+            "keywords": "water, supply, connection, household,notprovided",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "WaterMeterNotInstalled/NotWorkingProperly",
+            "name": "Water meter not installed/not working properly",
+            "keywords": "water, meter,install,work",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "WaterTariifBeingCollectedHigerThenTheFixedCharges",
+            "name": "Water tariif being collected higer then the fixed charges",
+            "keywords": "water, collected,charges",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "AnyOtherWaterRelatedComplaints",
+            "name": "Any other water related complaints",
+            "keywords": "other,water,complaints",
+            "department": "WaterSupply",
+            "slaHours": 336,
+            "menuPath": "WaterSupplyScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "ROPlantIsNotWorkingORClosed",
+            "name": "RO Plant is not working/Closed",
+            "keywords": "roplant,working,condition,closed",
+            "department": "ROPlant",
+            "slaHours": 336,
+            "menuPath": "ROPlantScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "RoWaterNotProvidedDueToAbsenceofOperator",
+            "name": "Ro Water not provided due to absence of operator.",
+            "keywords": "roplant,provided,absence,operator",
+            "department": "ROPlant",
+            "slaHours": 336,
+            "menuPath": "ROPlantScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "BadQualityofWater",
+            "name": "bad Quality of Water",
+            "keywords": "water, supply, connection, drink, dirty,bad, quality, contaminated, impure, health, clean",
+            "department": "ROPlant",
+            "slaHours": 336,
+            "menuPath": "ROPlantScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "AnyOtherROPlantRelatedComplaints",
+            "name": "Any other RO Plant related complaints",
+            "keywords": "other,roplant,complaints",
+            "department": "ROPlant",
+            "slaHours": 336,
+            "menuPath": "ROPlantScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "ROPlantORWaterTreatmentPlant",
+            "name": "RO Plant/ Water Treatment Plant",
+            "keywords": "RO, Plant,water ,treatment,plant",
+            "department": "ROPlant",
+            "slaHours": 336,
+            "menuPath": "ROPlantScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "SewerageLineisBlocked",
+            "name": "Sewerage line is blocked",
+            "keywords": "sewage ,line, blocked",
+            "department": "Sewerage",
+            "slaHours": 336,
+            "menuPath": "SewerageScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "STPisNotFunctional",
+            "name": "STP is not functional",
+            "keywords": "nonfunctional ,functional ,stp",
+            "department": "Sewerage",
+            "slaHours": 336,
+            "menuPath": "SewerageScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "SewrageInterceptingTankIsNotClearedbyContractor",
+            "name": "Sewrage intercepting Tank is not cleared by Contractor",
+            "keywords": "sewage ,unclean ,tank ,contractor",
+            "department": "Sewerage",
+            "slaHours": 336,
+            "menuPath": "SewerageScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "AnyOtherSewrageRelatedComplaints",
+            "name": "Any other Sewrage related complaints",
+            "keywords": "sewage ,complaints ,other",
+            "department": "Sewerage",
+            "slaHours": 336,
+            "menuPath": "SewerageScheme",
+            "active": true
+        },
+        {
+            "serviceCode": "AnyOtherComplaints",
+            "name": "Any Other Complaints",
+            "keywords": "other, miscellaneous,complaints",
+            "department": "Other",
+            "slaHours": 336,
+            "menuPath": "Others",
+            "active": true
+        },
+        {
+            "serviceCode": "HandedoverToPanchayat",
+            "name": "Handed over to Panchayat",
+            "keywords": "other, miscellaneous,complaints,handled,panchayat",
+            "department": "Other",
+            "slaHours": 336,
+            "menuPath": "Others",
+            "active": true
+        },
+        {
+            "serviceCode": "WorkInProgress",
+            "name": "Work in Progress",
+            "keywords": "other, miscellaneous ,complaints ,work ,progress",
+            "department": "Other",
+            "slaHours": 336,
+            "menuPath": "Others",
+            "active": true
+        },
+        {
+            "serviceCode": "ProblemRelatedtoStandaloneWaterPurificationSystem",
+            "name": "Problem related to stand alone water purification system",
+            "keywords": "other, miscellaneous ,standalone ,watersupply ,problem",
+            "department": "Other",
+            "slaHours": 336,
+            "menuPath": "Others",
+            "active": true
+        }
+    ]
+}
