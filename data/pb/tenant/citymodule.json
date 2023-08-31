@@ -12,6 +12,17 @@
           "code": "pb"
         }
       ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "order": 7,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }
