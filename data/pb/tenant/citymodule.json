@@ -12,6 +12,23 @@
           "code": "pb"
         }
       ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pb.lodhipur"
+        },
+        {
+          "code": "pb.massewal"
+        },
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }

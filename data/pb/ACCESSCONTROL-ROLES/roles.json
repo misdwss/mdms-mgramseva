@@ -121,6 +121,21 @@
       "code": "PROFILE_UPDATE",
       "name": "Profile update",
       "description": "Who has a access to update their own profile data"
+    },
+    {
+      "code": "CSR",
+      "name": "Customer Support Representative",
+      "description": "Employee who files and follows up complaints on behalf of the citizen"
+    },
+    {
+      "code": "GRO",
+      "name": "Grievance Routing Officer",
+      "description": "Grievance Routing Officer"
+    },
+    {
+      "code": "DGRO",
+      "name": "Department Grievance Routing Officer",
+      "description": "GRO for a sepcific dept who assings the grievances to last mile employees"
     }
   ]
 }

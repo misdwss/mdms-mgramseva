@@ -47,6 +47,7 @@
       "twitterUrl": "",
       "facebookUrl": "",
       "emailId": "complaints.lodhipur@gmail.com",
+      "pgrEnabled": true,
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -443,6 +444,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "",
+      "pgrEnabled": true,
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -156943,6 +156945,42 @@
         "projectId": "115609"
     },
     "address": "Tenant4500",
+    "pincode": [],
+    "contactNumber": "",
+    "pdfHeader": "",
+    "pdfContactDetails": ""
+},
+{
+    "code": "pb.testing",
+    "name": "TESTING",
+    "description": "TESTING",
+    "logoId": "",
+    "imageId": null,
+    "domainUrl": "",
+    "type": "CITY",
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "emailId": "",
+    "pgrEnabled": true,
+    "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+        "name": "TESTING",
+        "localName": "TESTING",
+        "districtCode": "T01",
+        "districtName": "Testing District",
+        "regionName": "TESTING-T00001",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "100001",
+        "ddrName": "TESTING",
+        "projectId": "100001"
+    },
+    "address": "Testing",
     "pincode": [],
     "contactNumber": "",
     "pdfHeader": "",
