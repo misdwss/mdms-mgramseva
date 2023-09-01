@@ -81,7 +81,11 @@
     {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
       "idname": "expense.misc.receipt.id"
-    } 
+    },
+    {
+      "format": "PG-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+      "idname": "pgr.servicerequestid"
+    }
      
   ]
 }

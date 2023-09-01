@@ -1350,6 +1350,69 @@
       "serviceCode": "rainmaker pgr",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2042,
+      "name": "rainmaker-common-complaints",
+      "url": "card",
+      "displayName": "Complaints",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "leftIcon": "action:announcement",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 2043,
+      "name": "Update PGR Request",
+      "url": "/pgr-services/v2/request/_update",
+      "parentModule": "",
+      "displayName": "Update PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2044,
+      "name": "Search PGR Request",
+      "url": "/pgr-services/v2/request/_search",
+      "parentModule": "",
+      "displayName": "Search PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2045,
+      "name": "Search PGR Request",
+      "url": "/pgr-services/v2/request/_count",
+      "parentModule": "",
+      "displayName": "Count PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2046,
+      "name": "Locality searcher endpoint for PGR",
+      "url": "/egov-searcher/locality/pgr-services/_get",
+      "displayName": "PGR locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
