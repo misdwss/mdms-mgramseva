@@ -136,6 +136,11 @@
       "code": "DGRO",
       "name": "Department Grievance Routing Officer",
       "description": "GRO for a sepcific dept who assings the grievances to last mile employees"
+    },
+    {
+      "code": "PGR_LME",
+      "name": "PGR Last Mile Employee",
+      "description": "PGR Last mile employee to whom the request can be assigned"
     }
   ]
 }

@@ -267,6 +267,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "PGR_LME",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 39,
       "actioncode": "",
@@ -304,6 +310,12 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
       "actionid": 42,
       "actioncode": "",
       "tenantId": "pb"
@@ -2943,6 +2955,162 @@
     {
       "rolecode": "DGRO",
       "actionid": 2041,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2046,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2046,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 2046,
       "actioncode": "",
       "tenantid": "pb"
     }
