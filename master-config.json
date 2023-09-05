@@ -582,5 +582,14 @@
         "$.businessService"
       ]
     }
+  },
+  "RAINMAKER-PGR": {
+    "ServiceDefs": {
+      "masterName": "ServiceDefs",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
   }
 }
