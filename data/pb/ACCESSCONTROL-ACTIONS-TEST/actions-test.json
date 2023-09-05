@@ -1313,6 +1313,30 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2038,
+      "name": " bill report",
+      "url": "/ws-services/wc/_billReport",
+      "parentModule": "",
+      "displayName": "get bill report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2039,
+      "name": " collection report",
+      "url": "/ws-services/wc/_collectionReport",
+      "parentModule": "",
+      "displayName": "get collection report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
