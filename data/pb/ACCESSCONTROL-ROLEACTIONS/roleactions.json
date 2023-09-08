@@ -3113,6 +3113,18 @@
       "actionid": 2046,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2047,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2047,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

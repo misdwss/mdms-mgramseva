@@ -1413,6 +1413,18 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2047,
+      "name": "Create PGR Request",
+      "url": "/pgr-services/v2/request/_create",
+      "parentModule": "",
+      "displayName": "Create PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+   }
   ]
 }	  
