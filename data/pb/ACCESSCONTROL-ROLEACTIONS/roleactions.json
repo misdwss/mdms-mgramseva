@@ -3125,6 +3125,42 @@
       "actionid": 2047,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }
