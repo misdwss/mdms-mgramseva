@@ -3125,6 +3125,24 @@
       "actionid": 2047,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

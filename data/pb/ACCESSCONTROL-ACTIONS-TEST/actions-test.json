@@ -1425,6 +1425,42 @@
       "serviceCode": "pgr-services",
       "code": "null",
       "path": ""
-   }
+   },
+   {
+    "id": 2048,
+    "name": "DSS Dashboard Config Home",
+    "url": "/dashboard-analytics/dashboard/getDashboardConfig/home",
+    "parentModule": "",
+    "displayName": "DSS",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "DSS",
+    "code": "null",
+    "path": ""
+  },
+{
+    "id": 2049,
+    "name": "DSS Dashboard Config PGR",
+    "url": "/dashboard-analytics/dashboard/getDashboardConfig/pgr",
+    "parentModule": "",
+    "displayName": "DSS",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "DSS",
+    "code": "null",
+    "path": ""
+  },
+{
+    "id": 2050,
+    "name": "Dashboard ULB PGR",
+    "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-pgr",
+    "parentModule": "",
+    "displayName": "DSS",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "DSS",
+    "code": "null",
+    "path": ""
+  }
   ]
 }	  
