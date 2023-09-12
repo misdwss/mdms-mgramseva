@@ -3161,6 +3161,24 @@
       "actionid": 2050,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
