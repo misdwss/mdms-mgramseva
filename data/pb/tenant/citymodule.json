@@ -9,7 +9,13 @@
       "order": 6,
       "tenants": [
         {
-          "code": "pb"
+          "code": "pb.lodhipur"
+        },
+        {
+          "code": "pb.massewal"
+        },
+        {
+          "code": "pb.testing"
         }
       ]
     },
