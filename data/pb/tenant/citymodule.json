@@ -29,6 +29,23 @@
           "code": "pb.testing"
         }
       ]
+    },
+    {
+      "module": "TEST",
+      "code": "TEST",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "pb.lodhipur"
+        },
+        {
+          "code": "pb.massewal"
+        },
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }
