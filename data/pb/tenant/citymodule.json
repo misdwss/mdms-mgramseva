@@ -16,6 +16,21 @@
         },
         {
           "code": "pb.testing"
+        },
+        {
+          "code": "pb.majher"
+        },
+        {
+          "code": "pb.baruwal"
+        },
+        {
+          "code": "pb.baloli"
+        },
+        {
+          "code": "pb.aulakh"
+        },
+        {
+          "code": "pb.dumewal"
         }
       ]
     },
@@ -33,6 +48,21 @@
         },
         {
           "code": "pb"
+        },
+        {
+          "code": "pb.majher"
+        },
+        {
+          "code": "pb.baruwal"
+        },
+        {
+          "code": "pb.baloli"
+        },
+        {
+          "code": "pb.aulakh"
+        },
+        {
+          "code": "pb.dumewal"
         }
       ]
     },
