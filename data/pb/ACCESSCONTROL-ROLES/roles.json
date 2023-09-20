@@ -141,6 +141,16 @@
       "code": "PGR_LME",
       "name": "PGR Last Mile Employee",
       "description": "PGR Last mile employee to whom the request can be assigned"
+    },
+    {
+      "code": "PSPCL_ADMIN",
+      "name": "PSPCL ADMIN",
+      "description": "Used for PSPCL"
+    },
+    {
+      "code": "DIV_ADMIN",
+      "name": "DIVISION ADMIN",
+      "description": "Used for Internal team Debug"
     }
   ]
 }
