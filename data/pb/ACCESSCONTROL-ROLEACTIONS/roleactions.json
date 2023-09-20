@@ -4167,7 +4167,30 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 16,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 17,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 16,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 17,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 18,
