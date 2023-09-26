@@ -8,6 +8,7 @@
       ]
     }
   },
+
   "ACCESSCONTROL-ROLES": {
     "roles": {
       "masterName": "roles",
@@ -424,6 +425,13 @@
     }
   },
   "ws-services-masters": {
+    "WSServiceRoles": {
+      "masterName": "WSServiceRoles",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "connectionCategory": {
       "masterName": "connectionCategory",
       "isStateLevel": true,
