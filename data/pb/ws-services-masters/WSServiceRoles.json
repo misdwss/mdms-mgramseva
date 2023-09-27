@@ -46,6 +46,11 @@
       "code": "DIV_ADMIN",
       "name": "DIVISION ADMIN",
       "description": "Used for Internal team Debug"
+    },
+    {
+      "code":"HRMS_ADMIN",
+      "name":"HRMS_ADMIN",
+      "description":"hrms admin"
     }
   ]
 }
