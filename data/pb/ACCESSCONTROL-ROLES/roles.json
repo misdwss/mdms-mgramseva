@@ -151,6 +151,11 @@
       "code": "DIV_ADMIN",
       "name": "DIVISION ADMIN",
       "description": "Used for Internal team Debug"
+    },
+    {
+      "code": "STATE_ADMIN",
+      "name": "STATE ADMIN",
+      "description": "Used for Creating Div admin user"
     }
   ]
 }
