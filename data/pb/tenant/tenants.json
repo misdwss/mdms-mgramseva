@@ -10,6 +10,7 @@
       "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.jalandhar/logo.png",
       "domainUrl": "www.mcjalandhar.in",
       "type": "CITY",
+      "pgrEnabled": true,
       "twitterUrl": "https://twitter.com/search?q=%23jalandhar",
       "facebookUrl": "https://www.facebook.com/city/jalandhar-Punjab",
       "emailId": "complaints.mcj@gmail.com",
