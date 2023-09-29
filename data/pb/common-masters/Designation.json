@@ -199,6 +199,12 @@
       "name": "Treasurer",
       "description": "treasurer",
       "active": true
+    },
+    {
+      "code": "DESIG_65",
+      "name": "Division Admin",
+      "description": "Division Admin",
+      "active": true
     }
 
   ]
