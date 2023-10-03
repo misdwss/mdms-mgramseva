@@ -1465,7 +1465,7 @@
     {
     "id": 2051,
     "name": " inactive consumer report",
-    "url": "/ws-services/wc//_inactiveConsumerReport",
+    "url": "/ws-services/wc/_inactiveConsumerReport",
     "parentModule": "",
     "displayName": "get inactive consumer report",
     "orderNumber": 2,
