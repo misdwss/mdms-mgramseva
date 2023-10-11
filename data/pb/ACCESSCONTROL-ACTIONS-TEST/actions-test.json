@@ -1473,6 +1473,18 @@
     "serviceCode": "ws-service",
     "code": "null",
     "path": ""
+  },
+    {
+    "id": 2052,
+    "name": "Delete Token",
+    "url": "/user/_logout",
+    "parentModule": "",
+    "displayName": "Delete Token",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "ADMIN",
+    "code": "null",
+    "path": "Administration.Delete Token"
   }
   ]
 }	  
