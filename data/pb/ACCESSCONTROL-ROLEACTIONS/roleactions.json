@@ -3963,6 +3963,30 @@
       "actionid": 2038,
       "actioncode": "",
       "tenantId": "pb"
+    },
+      {
+      "rolecode": "SUPERUSER",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+      {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+      {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
