@@ -3971,12 +3971,6 @@
       "tenantId": "pb"
     },
       {
-      "rolecode": "HRMS_ADMIN",
-      "actionid": 2040,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-      {
       "rolecode": "DIV_ADMIN",
       "actionid": 2040,
       "actioncode": "",
@@ -3984,6 +3978,30 @@
     },
       {
       "rolecode": "EMPLOYEE",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
       "actionid": 2040,
       "actioncode": "",
       "tenantId": "pb"
