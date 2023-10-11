@@ -4580,6 +4580,30 @@
       "actionid": 2052,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+    "rolecode": "SUPERUSER",
+    "actionid": 2053,
+    "actioncode": "",
+    "tenantId": "pb"
     }
   ]
 }

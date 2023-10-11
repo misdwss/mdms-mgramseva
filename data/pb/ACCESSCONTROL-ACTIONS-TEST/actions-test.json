@@ -1485,6 +1485,18 @@
     "serviceCode": "ADMIN",
     "code": "null",
     "path": "Administration.Delete Token"
-  }
+  },
+    {
+      "id": 2053,
+      "name": "SearchUser",
+      "url": "/user/_searchByTenant",
+      "displayName": "Search User by tenants",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.SearchUserByTenants"
+    }
+
   ]
 }	  
