@@ -1488,7 +1488,7 @@
   },
     {
       "id": 2053,
-      "name": "SearchUser",
+      "name": "SearchUserByTenants",
       "url": "/user/_searchByTenant",
       "displayName": "Search User by tenants",
       "orderNumber": 1,
