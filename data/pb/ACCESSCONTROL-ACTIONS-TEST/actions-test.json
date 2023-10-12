@@ -1496,6 +1496,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.SearchUserByTenants"
+    },
+    {
+      "id": 2054,
+      "name": "Search Employee by tenant",
+      "url": "/egov-hrms/employees/_searchByTenant",
+      "parentModule": "egov-hrms",
+      "displayName": "Search Employee by tenants",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
 
   ]
