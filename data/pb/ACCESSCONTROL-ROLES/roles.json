@@ -141,6 +141,16 @@
       "code": "PGR_LME",
       "name": "PGR Last Mile Employee",
       "description": "PGR Last mile employee to whom the request can be assigned"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS ADMIN",
+      "description": "MDMS User that can create and search schema"
+    },
+    {
+      "code": "LOC_ADMIN",
+      "name": "Localisation admin",
+      "description": "LOC_ADMIN"
     }
   ]
 }
