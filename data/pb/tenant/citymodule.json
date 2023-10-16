@@ -99,6 +99,23 @@
           "code": "pb.testing"
         }
       ]
+    },
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "pb.lodhipur"
+        },
+        {
+          "code": "pb.massewal"
+        },
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }
