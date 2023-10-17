@@ -490,7 +490,7 @@
       "uniqueKeys": [
         "$.code"
       ]
-    },
+    }
   },
   "ws-services-calculation": {
     "WaterCess": {
