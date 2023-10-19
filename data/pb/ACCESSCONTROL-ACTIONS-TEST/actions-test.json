@@ -1787,6 +1787,30 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2087,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/pspcl-integration.accountNumberGpMapping",
+      "displayName": "Create pspcl-integration accountNumberGpMapping",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2088,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/pspcl-integration.accountNumberGpMapping",
+      "displayName": "Update pspcl-integration accountNumberGpMapping",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
