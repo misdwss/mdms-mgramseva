@@ -4311,6 +4311,12 @@
       "actionid": 2486,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
