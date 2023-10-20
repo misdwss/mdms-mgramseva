@@ -1811,6 +1811,18 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2089,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_search/pspcl-integration.accountNumberGpMapping",
+      "displayName": "search pspcl-integration accountNumberGpMapping",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
