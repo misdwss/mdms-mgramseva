@@ -4157,6 +4157,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2059,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2059,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "MDMS_ADMIN",
       "actionid": 2060,
       "actioncode": "",
