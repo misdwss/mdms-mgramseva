@@ -4151,6 +4151,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2059,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "MDMS_ADMIN",
       "actionid": 2060,
       "actioncode": "",
