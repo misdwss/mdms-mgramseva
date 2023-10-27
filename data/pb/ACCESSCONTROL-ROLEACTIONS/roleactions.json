@@ -4335,6 +4335,12 @@
       "actionid": 2089,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 51,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
