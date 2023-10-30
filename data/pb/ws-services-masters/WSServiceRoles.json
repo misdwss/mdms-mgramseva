@@ -51,6 +51,11 @@
       "code":"HRMS_ADMIN",
       "name":"HRMS_ADMIN",
       "description":"hrms admin"
+    },
+    {
+      "code": "LOC_ADMIN",
+      "name": "Localisation admin",
+      "description": "LOC_ADMIN"
     }
   ]
 }
