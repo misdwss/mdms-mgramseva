@@ -1823,6 +1823,30 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2090,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ws-services-masters.WSServiceRoles",
+      "displayName": "Update ws-services-masters.WSServiceRoles",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2091,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ws-services-masters.WSServiceRoles",
+      "displayName": "create ws-services-masters.WSServiceRoles",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
