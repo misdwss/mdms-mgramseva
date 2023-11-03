@@ -4337,6 +4337,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2090,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2091,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "LOC_ADMIN",
       "actionid": 51,
       "actioncode": "",
