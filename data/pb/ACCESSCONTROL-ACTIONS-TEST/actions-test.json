@@ -1616,7 +1616,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "0Home",
-      "navigationURL": "/workbench-ui/employee/",
+      "navigationURL": "/mgramseva-web/employee/",
       "leftIcon": "dynamic:MuktaHomeIcon",
       "rightIcon": ""
     },
