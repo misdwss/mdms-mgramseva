@@ -1617,7 +1617,7 @@
       "code": "null",
       "path": "0Home",
       "navigationURL": "/workbench-ui/employee/",
-      "leftIcon": "action:home",
+      "leftIcon": "dynamic:MuktaHomeIcon",
       "rightIcon": ""
     },
     {
