@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.taprrian",
+        "code": "pb.tapprian",
         "children":[
           {
             "id": 1,
@@ -43,7 +43,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.taprrian",
+        "code": "pb.tapprian",
         "children":[
           {
             "id": 1,
