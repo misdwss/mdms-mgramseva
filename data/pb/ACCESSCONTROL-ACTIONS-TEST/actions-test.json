@@ -1847,6 +1847,18 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2092,
+      "name": "Employee search list",
+      "url": "/egov-hrms/employees/_searchListOfEmployee",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee search list",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }

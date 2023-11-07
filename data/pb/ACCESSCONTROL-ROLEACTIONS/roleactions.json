@@ -4353,6 +4353,36 @@
       "actionid": 51,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2092,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2092,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2092,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2092,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_ADMIN",
+      "actionid": 2092,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
