@@ -1859,6 +1859,30 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2093,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ws-services-calculation.WCBillingSlabMetered",
+      "displayName": "Create ws-services-calculation WCBillingSlabMetered",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2094,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ws-services-calculation.WCBillingSlabMetered",
+      "displayName": "Update ws-services-calculation WCBillingSlabMetered",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
