@@ -1883,6 +1883,126 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2095,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ws-services-calculation.Interest",
+      "displayName": "Create ws-services-calculation Interest",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2096,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ws-services-calculation.Interest",
+      "displayName": "Update ws-services-calculation Interest",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2097,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ws-services-calculation.CalculationAttribute",
+      "displayName": "Create ws-services-calculation CalculationAttribute",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2098,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ws-services-calculation.CalculationAttribute",
+      "displayName": "Update ws-services-calculation CalculationAttribute",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2099,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ws-services-calculation.WaterCess",
+      "displayName": "Create ws-services-calculation WaterCess",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2100,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ws-services-calculation.WaterCess",
+      "displayName": "Update ws-services-calculation WaterCess",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2101,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ws-services-calculation.Rebate",
+      "displayName": "Create ws-services-calculation Rebate",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2102,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ws-services-calculation.Rebate",
+      "displayName": "Update ws-services-calculation Rebate",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2103,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/egf-master.FinancialYear",
+      "displayName": "Create egf-master FinancialYear",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2104,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/egf-master.FinancialYear",
+      "displayName": "Update egf-master FinancialYear",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
