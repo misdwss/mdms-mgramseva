@@ -11,7 +11,7 @@
             "inputs": [
                 {
                     "label": "CORE_LOGIN_USERNAME",
-                    "type": "text",
+                    "type": "mobileNumber",
                     "populators": {
                         "name": "username",
                         "validation": {
