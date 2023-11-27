@@ -4455,7 +4455,8 @@
       "actionid": 2104,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2105,
       "actioncode": "",

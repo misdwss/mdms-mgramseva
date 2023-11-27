@@ -2005,16 +2005,16 @@
       "path": ""
     },
     {
-      "id": 2105,
-      "name": "Vendor Report",
-      "url":"/vendor/v1/_vendorReport",
-      "displayName": "get vendor report",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "vendor",
-      "code": "null",
-      "path": ""
-    }
+    "id": 2105,
+    "name": "Vendor Report",
+    "url": "/vendor/v1/_vendorReport",
+    "parentModule": "",
+    "displayName": "get vendor report",
+    "orderNumber": 2,
+    "enabled": false,
+    "serviceCode": "vendor",
+    "code": "null",
+    "path": ""
+  }
   ]
 }
