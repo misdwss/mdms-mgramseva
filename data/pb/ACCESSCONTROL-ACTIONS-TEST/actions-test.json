@@ -2011,7 +2011,7 @@
       "displayName": "get vendor report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
