@@ -2003,6 +2003,19 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2105,
+      "name": "Vendor Report",
+      "url":"/vendor/v1/_vendorReport",
+      "displayName": "get vendor report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
     }
   ]
 }
