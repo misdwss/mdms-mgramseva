@@ -64,12 +64,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 15,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 18,
       "actioncode": "",
       "tenantId": "pb"
@@ -657,26 +651,8 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 1933,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1934,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "GP_ADMIN",
       "actionid": 1934,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1935,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -2090,12 +2066,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "COLLECTION_OPERATOR",
-      "actionid": 2011,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "GP_ADMIN",
       "actionid": 2011,
       "actioncode": "",
@@ -3355,12 +3325,6 @@
     },
     {
       "rolecode": "PSPCL_ADMIN",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "PSPCL_ADMIN",
       "actionid": 2004,
       "actioncode": "",
       "tenantId": "pb"
@@ -3637,13 +3601,6 @@
 
     {
       "rolecode": "DIV_ADMIN",
-      "actionid": 15,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-
-    {
-      "rolecode": "DIV_ADMIN",
       "actionid": 14,
       "actioncode": "",
       "tenantId": "pb"
@@ -3666,13 +3623,6 @@
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 11,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-
-    {
-      "rolecode": "DIV_ADMIN",
-      "actionid": 2003,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -4087,12 +4037,6 @@
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 16,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DIV_ADMIN",
-      "actionid": 11,
       "actioncode": "",
       "tenantId": "pb"
     },
