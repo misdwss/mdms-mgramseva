@@ -16,7 +16,7 @@
     },
     {
       "businessService": "EXPENSE.ADVANCE",
-      "code": "EXPENSE.ADVANCE",
+      "code": "EXPENSE.ADVANCE_TAX",
       "collectionModesNotAllowed": [
         "DD"
       ],
