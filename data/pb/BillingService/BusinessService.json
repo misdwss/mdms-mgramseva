@@ -14,6 +14,18 @@
       "isActive": true,
       "type": "Adhoc"
     },
+    {
+      "businessService": "EXPENSE.ADVANCE",
+      "code": "EXPENSE.ADVANCE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
      {
       "businessService": "EXPENSE.SALARY",
       "code": "EXPENSE.SALARY",
