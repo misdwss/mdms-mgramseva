@@ -356,12 +356,6 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Other Private Educational Institute",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.OTHEREDUCATIONAL",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
       "name": "Manufacturing Facility",
       "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY.MANUFACTURINGFACILITY",
       "active": true,
@@ -388,12 +382,6 @@
     {
       "name": "Public Libraries",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.LIBRARIES",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
-      "name": "Religious Institution",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION",
       "active": true,
       "fromFY": "2015-16"
     },
