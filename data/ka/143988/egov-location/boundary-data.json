@@ -1,0 +1,62 @@
+{
+    "tenantId": "ka.143988",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BALOBAL",
+                "localname": "BALOBAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.143988",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BALOBAL",
+                        "localname": "BALOBAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BALOBAL",
+                "localname": "BALOBAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.143988",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BALOBAL",
+                        "localname": "BALOBAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
