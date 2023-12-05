@@ -1,0 +1,21 @@
+{
+  "tenantId": "pb",
+  "moduleName": "egov-hrms",
+  "HRMSConfig": [
+    {
+	  "isCurrentAssignment": true,
+      "department": "DWSS",
+	  "employeeType": "PERMANENT",
+      "designation": [
+        {
+          "code": "DESIG_65",
+          "isStateUser": true
+        },
+        {
+          "code": "DESIG_61",
+          "isStateUser": false
+        }
+      ]
+    }
+  ]
+}
