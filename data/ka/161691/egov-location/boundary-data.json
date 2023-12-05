@@ -1,0 +1,62 @@
+{
+    "tenantId": "ka.161691",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KUMSI",
+                "localname": "KUMSI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.161691",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KUMSI",
+                        "localname": "KUMSI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "KUMSI",
+                "localname": "KUMSI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.161691",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "KUMSI",
+                        "localname": "KUMSI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

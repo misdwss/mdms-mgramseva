@@ -1,0 +1,62 @@
+{
+    "tenantId": "ka.167880",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HINDASAGATTA",
+                "localname": "HINDASAGATTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.167880",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HINDASAGATTA",
+                        "localname": "HINDASAGATTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HINDASAGATTA",
+                "localname": "HINDASAGATTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.167880",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HINDASAGATTA",
+                        "localname": "HINDASAGATTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

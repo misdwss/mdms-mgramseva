@@ -1,0 +1,62 @@
+{
+    "tenantId": "ka.167538",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NUGGIHALLI",
+                "localname": "NUGGIHALLI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.167538",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NUGGIHALLI",
+                        "localname": "NUGGIHALLI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NUGGIHALLI",
+                "localname": "NUGGIHALLI",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ka.167538",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NUGGIHALLI",
+                        "localname": "NUGGIHALLI",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
