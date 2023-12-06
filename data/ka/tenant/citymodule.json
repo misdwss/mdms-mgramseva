@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "ka",
   "moduleName": "tenant",
   "citymodule": [
     {
@@ -9,7 +9,7 @@
       "order": 6,
       "tenants": [
         {
-          "code": "pb"
+          "code": "ka"
         }
       ]
     }
