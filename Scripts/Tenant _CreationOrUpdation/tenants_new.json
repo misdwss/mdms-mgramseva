@@ -27662,6 +27662,44 @@
             "contactNumber": "",
             "pdfHeader": "",
             "pdfContactDetails": ""
+        },
+        {
+            "code": "ka.none",
+            "name": "None",
+            "description": "None",
+            "logoId": "",
+            "imageId": null,
+            "domainUrl": "",
+            "city": {
+                "name": "None",
+                "localName": "None",
+                "districtCode": "None",
+                "districtName": "None",
+                "blockcode": null,
+                "blockname": null,
+                "panchayatcode": null,
+                "panchayatname": null,
+                "ulbGrade": "",
+                "longitude": null,
+                "latitude": null,
+                "captcha": null,
+                "shapeFileLocation": null,
+                "code": "None",
+                "ddrName": "None",
+                "projectId": "None",
+                "regionName": "None"
+            },
+            "twitterUrl": null,
+            "facebookUrl": null,
+            "emailId": "",
+            "OfficeTimings": {
+                "Mon - Fri": "9.00 AM - 6.00 PM"
+            },
+            "address": "None",
+            "pincode": [],
+            "contactNumber": "",
+            "pdfHeader": "",
+            "pdfContactDetails": ""
         }
     ]
 }
