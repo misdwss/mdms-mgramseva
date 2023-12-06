@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "ka",
   "moduleName": "tenant",
   "footer":[
       {
@@ -617,7 +617,7 @@
             
          },
         {
-          "code": "pb",
+          "code": "ka",
           "service": "BPAREG",
           "receiptFooterContent": [
              {
