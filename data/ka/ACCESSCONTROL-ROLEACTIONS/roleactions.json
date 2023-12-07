@@ -2699,19 +2699,19 @@
       "actioncode": "",
       "tenantId": "ka"
     },
-	    {
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2034,
       "actioncode": "",
       "tenantId": "ka"
     },
-	  {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2034,
       "actioncode": "",
       "tenantId": "ka"
     },
- {
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2035,
       "actioncode": "",
@@ -2741,7 +2741,7 @@
       "actioncode": "",
       "tenantId": "ka"
     },
-	  {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 1895,
       "actioncode": "",
@@ -2827,28 +2827,24 @@
       "actioncode": "",
       "tenantId": "ka"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 60,
       "actioncode": "",
       "tenantId": "ka"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 59,
       "actioncode": "",
       "tenantId": "ka"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 58,
       "actioncode": "",
       "tenantId": "ka"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 57,
