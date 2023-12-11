@@ -131,6 +131,11 @@
       "code": "DIV_ADMIN",
       "name": "DIVISION ADMIN",
       "description": "Used for Internal team Debug"
+    },
+    {
+        "code": "STATE_ADMIN",
+        "name": "STATE ADMIN",
+        "tenantId": "State admin"
     }
   ]
 }
