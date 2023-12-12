@@ -1408,6 +1408,6 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.Delete Token"
-    },
+    }
   ]
 }
