@@ -12,6 +12,17 @@
           "code": "ka"
         }
       ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "ka.testing"
+        }
+      ]
     }
   ]
 }
