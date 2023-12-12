@@ -1361,6 +1361,53 @@
     "serviceCode": "vendor",
     "code": "null",
     "path": ""
-  }
+  },
+  {
+      "id": 2042,
+      "name": "SearchUserByTenants",
+      "url": "/user/_searchByTenant",
+      "displayName": "Search User by tenants",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.SearchUserByTenants"
+   },
+   {
+      "id": 2043,
+      "name": "Employee Count",
+      "url": "/egov-hrms/employees/v1/_count",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee Count",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 2044,
+      "name": "Employee search list",
+      "url": "/egov-hrms/employees/_searchListOfEmployee",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee search list",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2045,
+      "name": "Delete Token",
+      "url": "/user/_logout",
+      "parentModule": "",
+      "displayName": "Delete Token",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Delete Token"
+    }
   ]
 }
