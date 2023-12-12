@@ -12,6 +12,23 @@
           "code": "ka"
         }
       ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "ka.661599"
+        },
+        {
+          "code": "ka.611117"
+        },
+        {
+          "code": "ka.661598"
+        }
+      ]
     }
   ]
 }
