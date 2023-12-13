@@ -175,6 +175,12 @@
       "description": "Commissioner",
       "code": "DESIG_60",
       "active": true
+    },
+    {
+      "code": "DESIG_65",
+      "name": "Division Admin",
+      "description": "Division Admin",
+      "active": true
     }
   ]
 }

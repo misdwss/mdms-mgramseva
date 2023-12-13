@@ -66,6 +66,11 @@
       "name": "Works Branch",
       "code": "DEPT_35",
       "active": true
+    },
+    {
+      "name": "DWSS",
+      "code": "DWSS",
+      "active": true
     }
   ]
 }
