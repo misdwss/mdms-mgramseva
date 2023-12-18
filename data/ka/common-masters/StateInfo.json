@@ -3,7 +3,7 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "Panjab",
+      "name": "Karnataka",
       "code": "ka",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
       "bannerUrl": "https://mgramseva-dwss.punjab.gov.in/pb-mgramseva-assets/Punjab-bg-QA.jpg",
@@ -18,12 +18,8 @@
       },
       "languages": [
         {
-           "label": "ਪੰਜਾਬੀ",
-           "value": "pn_IN"
-        },
-        {
-          "label": "हिंदी",
-          "value": "hi_IN"
+           "label": "ಕನ್ನಡ",
+           "value": "kn_IN"
         },
         {
           "label": "ENGLISH",
