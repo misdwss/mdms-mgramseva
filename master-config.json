@@ -482,6 +482,13 @@
       "uniqueKeys": [
 	      "$.code"
       ]
+    },
+    "WSServiceRoles": {
+      "masterName": "WSServiceRoles",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "ws-services-calculation": {
