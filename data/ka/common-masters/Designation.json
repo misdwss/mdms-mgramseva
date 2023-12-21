@@ -177,6 +177,12 @@
       "active": true
     },
     {
+      "code": "DESIG_61",
+      "name": "Sarpanch",
+      "description": "Sarpanch",
+      "active": true
+    },
+    {
       "code": "DESIG_65",
       "name": "Division Admin",
       "description": "Division Admin",
