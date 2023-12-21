@@ -188,6 +188,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "HRMSConfig": {
+      "masterName": "HRMSConfig",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "BillingService": {
