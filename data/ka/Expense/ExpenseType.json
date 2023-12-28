@@ -5,7 +5,7 @@
       {
       "name": "Electricity Bill",
       "code": "ELECTRICITY_BILL",
-      "active": true,
+      "active": false,
       "taxHeadCode":"20101"
     },
     {
@@ -35,7 +35,7 @@
     {
       "name": "Water Treatment",
       "code": "WATER_TREATMENT",
-      "active": true,
+      "active": false,
       "taxHeadCode":"20304"
     },
     {
@@ -53,13 +53,13 @@
     {
       "name": "New Pipeline",
       "code": "NEW_PIPELINE",
-      "active": true,
+      "active": false,
       "taxHeadCode":"40102"
     },
      {
       "name": "Incentives",
       "code": "INCENTIVES",
-      "active": true,
+      "active": false,
       "taxHeadCode":"20202"
     }
   ]
