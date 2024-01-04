@@ -2015,6 +2015,18 @@
     "serviceCode": "vendor",
     "code": "null",
     "path": ""
+  },
+        {
+    "id": 2106,
+    "name": "Expense Report",
+    "url": "/echallan-services/eChallan/v1/_expenseBillReport",
+    "parentModule": "",
+    "displayName": "get expense bill report",
+    "orderNumber": 2,
+    "enabled": false,
+    "serviceCode": "echallan-services",
+    "code": "null",
+    "path": ""
   }
   ]
 }
