@@ -1,0 +1,4132 @@
+{
+  "tenantId": "gj",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 16,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 17,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 17,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 19,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 19,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 20,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 20,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 21,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 25,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 29,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 30,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 40,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 40,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 41,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 41,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 45,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 45,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 46,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 46,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 47,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 47,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 48,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 49,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 51,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 61,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 61,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 62,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 62,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 63,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 63,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 64,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 64,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 65,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 65,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 66,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 66,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1741,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PROFILE_UPDATE",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2004,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2036,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PROFILE_UPDATE",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "GP_ADMIN",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "GP_ADMIN",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "GP_ADMIN",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "SUPERUSER",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "SUPERUSER",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "SUPERUSER",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 2023,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+{
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+	  {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+ {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "gj"
+    }, {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "gj"
+    },{
+      "rolecode": "GP_ADMIN",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+	  {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+	  {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2034,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2034,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2035,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2035,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2035,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2035,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2035,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2004,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "PSPCL_ADMIN",
+      "actionid": 2036,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2004,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2036,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2037,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2037,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+      {
+      "rolecode": "SUPERUSER",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+      {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+      {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "STATE_ADMIN",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 16,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 17,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 19,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 20,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 21,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 25,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 29,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 30,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "gj"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantId": "gj"
+    }
+	  
+  ]
+}

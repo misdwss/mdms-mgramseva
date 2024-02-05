@@ -1,0 +1,28 @@
+{
+  "tenantId": "gj",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 6,
+      "tenants": [
+        {
+          "code": "gj"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "gj.testing"
+        }
+      ]
+    }
+  ]
+}

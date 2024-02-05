@@ -1,0 +1,17 @@
+{
+  "tenantId": "gj",
+  "moduleName": "ws-services-calculation",
+  "Penalty": [
+    {
+      "type": "FLAT",
+      "subType": "currentMonth",
+      "rate": null,
+      "amount":0,
+      "minAmount": null,
+      "applicableAfterDays": 10,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "1/01/2022"
+    }
+  ]
+}

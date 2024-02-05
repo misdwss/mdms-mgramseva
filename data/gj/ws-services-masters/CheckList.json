@@ -1,0 +1,47 @@
+{
+	"tenantId": "gj",
+	"moduleName": "ws-services-masters",
+	"CheckList": [{
+			"code": "HAPPY_WATER_SUPPLY",
+			"name":"Are you happy with water supply?",
+			"active": true,
+			"required": true,
+			"type": "SINGLE_SELECT",
+			"options": [
+				"1",
+				"2",
+				"3",
+				"4",
+				"5"
+			]
+		},
+		{
+			"code": "WATER_SUPPLY_REGULAR",
+			"name": "Is the water supply regular?",
+			"active": true,
+			"type": "SINGLE_SELECT",
+			"required": true,
+			"options": [
+				"1",
+				"2",
+				"3",
+				"4",
+				"5"
+			]
+		},
+		{
+			"code": "WATER_QUALITY_GOOD",
+			"name":"Is the water quality good?",
+			"active": true,
+			"type": "SINGLE_SELECT",
+			"required": true,
+			"options": [
+				"1",
+				"2",
+				"3",
+				"4",
+				"5"
+			]
+		}
+	]
+}
