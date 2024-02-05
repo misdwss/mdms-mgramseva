@@ -1,0 +1,14 @@
+{
+  "tenantId": "gj",
+  "moduleName": "ws-services-masters",
+  "Category": [
+    {
+      "code": "APL",
+      "name": "APL"
+    },
+    {
+      "code": "BPL",
+      "name": "BPL"
+    }
+  ]
+}
