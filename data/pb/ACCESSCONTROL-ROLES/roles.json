@@ -146,6 +146,11 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+    {
+      "code": "MDMS_ADMIN_TEST",
+      "name": "MDMS ADMIN TEST",
+      "description": "MDMS User that can create and search schema"
     }
   ]
 }
