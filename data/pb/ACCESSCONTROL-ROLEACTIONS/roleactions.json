@@ -4507,6 +4507,18 @@
       "actionid": 2107,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN_TEST",
+      "actionid": 2085,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN_TEST",
+      "actionid": 2086,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
