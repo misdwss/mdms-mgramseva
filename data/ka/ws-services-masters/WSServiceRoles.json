@@ -61,6 +61,21 @@
       "code": "MDMS_ADMIN",
       "name": "MDMS ADMIN",
       "description": "MDMS User that can create and search schema"
+    },
+    {
+      "code": "CHAIRMEN",
+      "name": "CHAIRMEN",
+      "description": "CHAIRMEN"
+    },
+    {
+      "code": "REVENUE_COLLECTOR",
+      "name": "Revenue Collector",
+      "description": "Revenue Collecto"
+    },
+    {
+      "code": "SECRETARY",
+      "name": "SECRETARY",
+      "description": "SECRETARY/Treaser"
     }
   ]
 }
