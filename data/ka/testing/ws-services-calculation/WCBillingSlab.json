@@ -91,14 +91,14 @@
             "buildingType": "RESIDENTIAL",
             "calculationAttribute": "Flat",
             "connectionType": "Non_Metered",
-            "minimumCharge": 0.0
+            "minimumCharge": 50
         },
         {
             "id": "6",
             "buildingType": "COMMERCIAL",
             "calculationAttribute": "Flat",
             "connectionType": "Non_Metered",
-            "minimumCharge": 0.0
+            "minimumCharge": 50
         },
         {
             "id": "7",
