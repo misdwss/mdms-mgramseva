@@ -151,11 +151,6 @@
       "code": "SECRETARY",
       "name": "SECRETARY",
       "description": "SECRETARY/Treaser"
-    },
-    {
-      "code": "RATE_INFO",
-      "name": "RATE INFO",
-      "description": "RATE INFO"
     }
   ]
 }
