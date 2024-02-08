@@ -135,7 +135,27 @@
     {
         "code": "STATE_ADMIN",
         "name": "STATE ADMIN",
-        "tenantId": "State admin"
+        "description": "State admin"
+    },
+    {
+      "code": "CHAIRMEN",
+      "name": "CHAIRMEN",
+      "description": "CHAIRMEN"
+    },
+    {
+      "code": "REVENUE_COLLECTOR",
+      "name": "Revenue Collector",
+      "description": "Revenue Collecto"
+    },
+    {
+      "code": "SECREATURY",
+      "name": "SECREATURY",
+      "description": "Secreatury/Treaser"
+    },
+    {
+      "code": "RATE_INFO",
+      "name": "RATE INFO",
+      "description": "RATE INFO"
     }
   ]
 }
