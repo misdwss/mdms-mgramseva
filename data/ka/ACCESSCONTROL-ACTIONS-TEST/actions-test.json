@@ -753,7 +753,7 @@
  		{
       "id": 1899,
       "name": "Create Water Connection",
-      "url": "/ws-services/wc/_create",
+      "url": "/karnataka/ws-services/wc/_create",
       "displayName": "Create Water COnnection",
       "orderNumber": 0,
       "enabled": false,
@@ -764,7 +764,7 @@
  		{
       "id": 1900,
       "name": "Search Water Connection",
-      "url": "/ws-services/wc/_search",
+      "url": "/karnataka/ws-services/wc/_search",
       "displayName": "Search Water COnnection",
       "orderNumber": 0,
       "enabled": false,
@@ -775,7 +775,7 @@
     {
       "id": 1901,
       "name": "Update Water Connection",
-      "url": "/ws-services/wc/_update",
+      "url": "/karnataka/ws-services/wc/_update",
       "displayName": "Update Water COnnection",
       "orderNumber": 0,
       "enabled": false,
@@ -1140,7 +1140,7 @@
 	{
       "id": 2023,
       "name": " feedback create",
-      "url": "/ws-services/wc/_submitfeedback",
+      "url": "/karnataka/ws-services/wc/_submitfeedback",
       "parentModule": "",
       "displayName": "create feedback",
       "orderNumber": 2,
@@ -1152,7 +1152,7 @@
 	{
       "id": 2024,
       "name": " feedback search",
-      "url": "/ws-services/wc/_getfeedback",
+      "url": "/karnataka/ws-services/wc/_getfeedback",
       "parentModule": "",
       "displayName": "get feedback",
       "orderNumber": 2,
@@ -1163,7 +1163,7 @@
     },{
       "id": 2025,
       "name": " Employee Bulk On Board ",
-      "url": "/ws-services/wc/_bulkonboard",
+      "url": "/karnataka/ws-services/wc/_bulkonboard",
       "parentModule": "",
       "displayName": "Employee Bulk On Board ",
       "orderNumber": 2,
@@ -1186,7 +1186,7 @@
     },{
       "id": 2027,
       "name": " feedback search",
-      "url": "/ws-services/wc/_revenueDashboard",
+      "url": "/karnataka/ws-services/wc/_revenueDashboard",
       "parentModule": "",
       "displayName": "get Revenue Dashboard Data",
       "orderNumber": 2,
@@ -1197,7 +1197,7 @@
     },{
       "id": 2028,
       "name": " fuzzy search",
-      "url": "/ws-services/wc/fuzzy/_search",
+      "url": "/karnataka/ws-services/wc/fuzzy/_search",
       "parentModule": "",
       "displayName": "fuzzy search ",
       "orderNumber": 2,
@@ -1231,7 +1231,7 @@
     },{
       "id": 2031,
       "name": " feedback search",
-      "url": "/ws-services/wc/_revenueCollectionData",
+      "url": "/karnataka/ws-services/wc/_revenueCollectionData",
       "parentModule": "",
       "displayName": "get Revenue Dashboard Data",
       "orderNumber": 2,
@@ -1317,7 +1317,7 @@
     {
       "id": 2038,
       "name": " bill report",
-      "url": "/ws-services/wc/_billReport",
+      "url": "/karnataka/ws-services/wc/_billReport",
       "parentModule": "",
       "displayName": "get bill report",
       "orderNumber": 2,
@@ -1329,7 +1329,7 @@
     {
       "id": 2039,
       "name": " collection report",
-      "url": "/ws-services/wc/_collectionReport",
+      "url": "/karnataka/ws-services/wc/_collectionReport",
       "parentModule": "",
       "displayName": "get collection report",
       "orderNumber": 2,
@@ -1341,7 +1341,7 @@
     {
     "id": 2040,
     "name": " inactive consumer report",
-    "url": "/ws-services/wc/_inactiveConsumerReport",
+    "url": "/karnataka/ws-services/wc/_inactiveConsumerReport",
     "parentModule": "",
     "displayName": "get inactive consumer report",
     "orderNumber": 2,
