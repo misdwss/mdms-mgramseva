@@ -5,7 +5,7 @@
     {
       "id": 11,
       "name": "Employee Count",
-      "url": "/egov-hrms/employees/_count",
+      "url": "/karnataka/egov-hrms/employees/_count",
       "parentModule": "egov-hrms",
       "displayName": "Employee Count",
       "orderNumber": 0,
@@ -31,7 +31,7 @@
     },{
       "id": 13,
       "name": "RainmakerHRMS-EmployeeReport-Metadata",
-      "url": "/report/hrms/EmployeeReport/metadata/_get",
+      "url": "/karnataka/report/hrms/EmployeeReport/metadata/_get",
       "displayName": "Rainmaker Employee report",
       "orderNumber": 1,
       "enabled": false,
@@ -41,7 +41,7 @@
     },{
       "id": 14,
       "name": "EmployeeReport",
-      "url": "/report/hrms/EmployeeReport/_get",
+      "url": "/karnataka/report/hrms/EmployeeReport/_get",
       "displayName": "Employee Report",
       "orderNumber": 0,
       "enabled": false,
@@ -52,7 +52,7 @@
     {
       "id": 15,
       "name": "Employee Search",
-      "url": "/egov-hrms/employees/_search",
+      "url": "/karnataka/egov-hrms/employees/_search",
       "parentModule": "egov-hrms",
       "displayName": "Employee Search",
       "orderNumber": 0,
@@ -63,7 +63,7 @@
     },{
       "id": 16,
       "name": "Employee Create",
-      "url": "/egov-hrms/employees/_create",
+      "url": "/karnataka/egov-hrms/employees/_create",
       "parentModule": "egov-hrms",
       "displayName": "Employee Create",
       "orderNumber": 0,
@@ -75,7 +75,7 @@
     {
       "id": 17,
       "name": "Employee Update",
-      "url": "/egov-hrms/employees/_update",
+      "url": "/karnataka/egov-hrms/employees/_update",
       "parentModule": "egov-hrms",
       "displayName": "Employee Update",
       "orderNumber": 0,
@@ -86,7 +86,7 @@
     },{
       "id": 18,
       "name": "SearchUser",
-      "url": "/user/_search",
+      "url": "/karnataka/user/_search",
       "displayName": "Search User",
       "orderNumber": 1,
       "enabled": false,
@@ -97,7 +97,7 @@
     {
       "id": 19,
       "name": "CreateUsernovalidate",
-      "url": "/user/users/_createnovalidate",
+      "url": "/karnataka/user/users/_createnovalidate",
       "displayName": "Create User novalidate",
       "orderNumber": 1,
       "enabled": false,
@@ -107,7 +107,7 @@
     },{
       "id": 20,
       "name": "UpdateUserWithoutValidation",
-      "url": "/user/users/{id}/_updatenovalidate",
+      "url": "/karnataka/user/users/{id}/_updatenovalidate",
       "displayName": "UserRole Mapping",
       "orderNumber": 1,
       "enabled": true,
@@ -118,7 +118,7 @@
     {
       "id": 2001,
       "name": "BusinessService Search",
-      "url": "/user/profile/_update",
+      "url": "/karnataka/user/profile/_update",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -129,7 +129,7 @@
     },{
       "id": 21,
       "name": "updateUsernovalidate",
-      "url": "/user/users/_updatenovalidate",
+      "url": "/karnataka/user/users/_updatenovalidate",
       "displayName": "Update User novalidate",
       "orderNumber": 1,
       "enabled": false,
@@ -139,7 +139,7 @@
     },{
       "id": 22,
       "name": "Get All Actions",
-      "url": "/access/v1/actions/_get",
+      "url": "/karnataka/access/v1/actions/_get",
       "displayName": "Get All Actions",
       "orderNumber": 1,
       "enabled": false,
@@ -149,7 +149,7 @@
     },{
       "id": 23,
       "name": "SearchActions",
-      "url": "/access/v1/actions/_search",
+      "url": "/karnataka/access/v1/actions/_search",
       "displayName": "Search Actions",
       "orderNumber": 1,
       "enabled": false,
@@ -160,7 +160,7 @@
     {
       "id": 24,
       "name": "ValidateAction",
-      "url": "/access/v1/actions/_validate",
+      "url": "/karnataka/access/v1/actions/_validate",
       "displayName": "Validate Action",
       "orderNumber": 1,
       "enabled": false,
@@ -171,7 +171,7 @@
     {
       "id": 25,
       "name": "CreateActions",
-      "url": "/access/v1/actions/_create",
+      "url": "/karnataka/access/v1/actions/_create",
       "displayName": "Create Action",
       "orderNumber": 1,
       "enabled": false,
@@ -182,7 +182,7 @@
     {
       "id": 26,
       "name": "UpdateActions",
-      "url": "/access/v1/actions/_update",
+      "url": "/karnataka/access/v1/actions/_update",
       "displayName": "Update Action",
       "orderNumber": 1,
       "enabled": false,
@@ -193,7 +193,7 @@
     {
       "id": 27,
       "name": "CreateRoleActions",
-      "url": "/access/v1/role-actions/_create",
+      "url": "/karnataka/access/v1/role-actions/_create",
       "displayName": "Create Role actions",
       "orderNumber": 1,
       "enabled": false,
@@ -204,7 +204,7 @@
     {
       "id": 28,
       "name": "SearchRoles",
-      "url": "/access/v1/roles/_search",
+      "url": "/karnataka/access/v1/roles/_search",
       "displayName": "Search Roles",
       "orderNumber": 1,
       "enabled": false,
@@ -215,7 +215,7 @@
     {
       "id": 29,
       "name": "CreateRoles",
-      "url": "/access/v1/roles/_create",
+      "url": "/karnataka/access/v1/roles/_create",
       "displayName": "Create Roles",
       "orderNumber": 1,
       "enabled": false,
@@ -226,7 +226,7 @@
     {
       "id": 30,
       "name": "updateRoles",
-      "url": "/access/v1/roles/_update",
+      "url": "/karnataka/access/v1/roles/_update",
       "displayName": "Update Roles",
       "orderNumber": 1,
       "enabled": false,
@@ -236,7 +236,7 @@
     },{
       "id": 31,
       "name": "Get Actions from MDMS",
-      "url": "/access/v1/actions/mdms/_get",
+      "url": "/karnataka/access/v1/actions/mdms/_get",
       "displayName": "Get Actions from mdms",
       "orderNumber": 1,
       "parentModule": "221",
@@ -247,7 +247,7 @@
     },{
       "id": 32,
       "name": "Get Roles from MDMS",
-      "url": "/access/v1/roles/mdms/_search",
+      "url": "/karnataka/access/v1/roles/mdms/_search",
       "displayName": "Get Roles from MDMS",
       "orderNumber": 0,
       "enabled": false,
@@ -256,7 +256,7 @@
     },{
       "id": 33,
       "name": "MDMS Search",
-      "url": "/egov-mdms-service/v1/_search",
+      "url": "/karnataka/egov-mdms-service/v1/_search",
       "displayName": "MDMS Search",
       "orderNumber": 0,
       "parentModule": "306",
@@ -268,7 +268,7 @@
     {
       "id": 34,
       "name": "GenerateNumber",
-      "url": "/egov-idgen/id/_generate",
+      "url": "/karnataka/egov-idgen/id/_generate",
       "displayName": "Generate Number",
       "orderNumber": 1,
       "enabled": false,
@@ -278,7 +278,7 @@
     },{
       "id": 35,
       "name": "PGService Transaction Search",
-      "url": "/pg-service/transaction/v1/_search",
+      "url": "/karnataka/pg-service/transaction/v1/_search",
       "displayName": "Transaction Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -290,7 +290,7 @@
     {
       "id": 36,
       "name": "PGService Transaction Create",
-      "url": "/pg-service/transaction/v1/_create",
+      "url": "/karnataka/pg-service/transaction/v1/_create",
       "displayName": "Transaction Create",
       "orderNumber": 1,
       "parentModule": "",
@@ -302,7 +302,7 @@
     {
       "id": 37,
       "name": "PGService Transaction Update",
-      "url": "/pg-service/transaction/v1/_update",
+      "url": "/karnataka/pg-service/transaction/v1/_update",
       "displayName": "Transaction Update",
       "orderNumber": 2,
       "parentModule": "",
@@ -314,7 +314,7 @@
     {
       "id": 38,
       "name": "Workflow transition",
-      "url": "/egov-workflow-v2/egov-wf/process/_transition",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/process/_transition",
       "parentModule": "",
       "displayName": "Workflow transition",
       "orderNumber": 0,
@@ -326,7 +326,7 @@
     {
       "id": 39,
       "name": "Workflow search",
-      "url": "/egov-workflow-v2/egov-wf/process/_search",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/process/_search",
       "parentModule": "",
       "displayName": "Workflow search",
       "orderNumber": 0,
@@ -338,7 +338,7 @@
     {
       "id": 40,
       "name": "BusinessService Create",
-      "url": "/egov-workflow-v2/egov-wf/businessservice/_create",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/businessservice/_create",
       "parentModule": "",
       "displayName": "BusinessService Create",
       "orderNumber": 0,
@@ -350,7 +350,7 @@
     {
       "id": 41,
       "name": "BusinessService Update",
-      "url": "/egov-workflow-v2/egov-wf/businessservice/_update",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/businessservice/_update",
       "parentModule": "",
       "displayName": "BusinessService Update",
       "orderNumber": 0,
@@ -362,7 +362,7 @@
     {
       "id": 42,
       "name": "BusinessService Search",
-      "url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/businessservice/_search",
       "parentModule": "",
       "displayName": "BusinessService Search",
       "orderNumber": 0,
@@ -374,7 +374,7 @@
     {
       "id": 43,
       "name": "WorkflowProcessCount",
-      "url": "/egov-workflow-v2/egov-wf/process/_count",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/process/_count",
       "displayName": "Workflow Count",
       "orderNumber": 1,
       "parentModule": "",
@@ -386,7 +386,7 @@
     {
       "id": 44,
       "name": "WorkflowProcessStatusCount",
-      "url": "/egov-workflow-v2/egov-wf/process/_statuscount",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/process/_statuscount",
       "displayName": "Workflow Status Count",
       "orderNumber": 1,
       "parentModule": "",
@@ -398,7 +398,7 @@
     {
       "id": 45,
       "name": "Indexer finance rolloutadoption",
-      "url": "/egov-indexer/index-operations/finance-adoption-topic/_index",
+      "url": "/karnataka/egov-indexer/index-operations/finance-adoption-topic/_index",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -410,7 +410,7 @@
     {
       "id": 46,
       "name": "Indexer finance billregister",
-      "url": "/egov-indexer/index-operations/finance-bill-topic/_index",
+      "url": "/karnataka/egov-indexer/index-operations/finance-bill-topic/_index",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -422,7 +422,7 @@
     {
       "id": 47,
       "name": "Indexer finance voucher",
-      "url": "/egov-indexer/index-operations/finance-voucher-topic/_index",
+      "url": "/karnataka/egov-indexer/index-operations/finance-voucher-topic/_index",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -434,7 +434,7 @@
     {
       "id": 48,
       "name": "LocalizationMessagesCreate",
-      "url": "/localization/messages/v1/_create",
+      "url": "/karnataka/localization/messages/v1/_create",
       "displayName": "Localization Messages Create",
       "orderNumber": 1,
       "parentModule": "",
@@ -446,7 +446,7 @@
     {
       "id": 49,
       "name": "LocalizationMessagesUpdate",
-      "url": "/localization/messages/v1/_update",
+      "url": "/karnataka/localization/messages/v1/_update",
       "displayName": "Localization Messages Update",
       "orderNumber": 1,
       "parentModule": "",
@@ -458,7 +458,7 @@
     {
       "id": 50,
       "name": "LocalizationMessagesSearch",
-      "url": "/localization/messages/v1/_search",
+      "url": "/karnataka/localization/messages/v1/_search",
       "displayName": "Localization Messages Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -470,7 +470,7 @@
     {
       "id": 51,
       "name": "LocalizationMessagesUpsert",
-      "url": "/localization/messages/v1/_upsert",
+      "url": "/karnataka/localization/messages/v1/_upsert",
       "displayName": "Localization Messages Upsert",
       "orderNumber": 1,
       "parentModule": "",
@@ -482,7 +482,7 @@
     {
       "id": 52,
       "name": "Get Boundary by Boundary Type",
-      "url": "/egov-location/boundarys/getByBoundaryType",
+      "url": "/karnataka/egov-location/boundarys/getByBoundaryType",
       "displayName": "Get Boundary by Boundary Type",
       "orderNumber": 1,
       "parentModule": "67",
@@ -494,7 +494,7 @@
     {
       "id": 53,
       "name": "Get Child locations by Boundary",
-      "url": "/egov-location/boundarys/childLocationsByBoundaryId",
+      "url": "/karnataka/egov-location/boundarys/childLocationsByBoundaryId",
       "displayName": "Get Child locations by Boundary",
       "orderNumber": 1,
       "parentModule": "67",
@@ -506,7 +506,7 @@
     {
       "id": 54,
       "name": "Get Boundary Type",
-      "url": "/egov-location/boundarytypes",
+      "url": "/karnataka/egov-location/boundarytypes",
       "displayName": "Get Boundary Type",
       "orderNumber": 1,
       "parentModule": "67",
@@ -518,7 +518,7 @@
     {
       "id": 55,
       "name": "Get BoundaryTypes By Heirarchy Type",
-      "url": "/egov-location/boundarytypes/getByHierarchyType",
+      "url": "/karnataka/egov-location/boundarytypes/getByHierarchyType",
       "displayName": "Get BoundaryTypes By Heirarchy Type",
       "orderNumber": 1,
       "parentModule": "67",
@@ -530,7 +530,7 @@
     {
       "id": 56,
       "name": "Search Boundary",
-      "url": "/egov-location/boundarys/_search",
+      "url": "/karnataka/egov-location/boundarys/_search",
       "displayName": "Search Boundary",
       "orderNumber": 1,
       "parentModule": "67",
@@ -542,7 +542,7 @@
     {
       "id": 57,
       "name": "isShapeFileExist",
-      "url": "/egov-location/boundarys/isshapefileexist",
+      "url": "/karnataka/egov-location/boundarys/isshapefileexist",
       "displayName": "Is ShapeFile ExistOrNot",
       "orderNumber": 1,
       "parentModule": "67",
@@ -554,7 +554,7 @@
     {
       "id": 58,
       "name": "SearchBoundaryType",
-      "url": "/egov-location/boundarytypes/_search",
+      "url": "/karnataka/egov-location/boundarytypes/_search",
       "displayName": "Search BoundaryType",
       "orderNumber": 1,
       "parentModule": "67",
@@ -566,7 +566,7 @@
     {
       "id": 59,
       "name": "SearchHierarchyTypes",
-      "url": "/egov-location/hierarchytypes/_search",
+      "url": "/karnataka/egov-location/hierarchytypes/_search",
       "displayName": "Search HierarchyTypes",
       "orderNumber": 1,
       "parentModule": "67",
@@ -578,7 +578,7 @@
     {
       "id": 60,
       "name": "Search Cross Hierarchy",
-      "url": "/egov-location/crosshierarchys/_search",
+      "url": "/karnataka/egov-location/crosshierarchys/_search",
       "displayName": "Search Cross Hierarchys",
       "orderNumber": 1,
       "parentModule": "67",
@@ -590,7 +590,7 @@
     {
       "id": 61,
       "name": "Create Boundary",
-      "url": "/egov-location/boundarys",
+      "url": "/karnataka/egov-location/boundarys",
       "displayName": "Create Boundary",
       "orderNumber": 1,
       "parentModule": "67",
@@ -602,7 +602,7 @@
     {
       "id": 62,
       "name": "Create HierarchyType",
-      "url": "/egov-location/hierarchytypes",
+      "url": "/karnataka/egov-location/hierarchytypes",
       "displayName": "Create HierarchyType",
       "orderNumber": 1,
       "parentModule": "67",
@@ -614,7 +614,7 @@
     {
       "id": 63,
       "name": "Update Boundary",
-      "url": "/egov-location/boundarys/{code}",
+      "url": "/karnataka/egov-location/boundarys/{code}",
       "displayName": "Update Boundary",
       "orderNumber": 1,
       "parentModule": "67",
@@ -626,7 +626,7 @@
     {
       "id": 64,
       "name": "Update BoundaryType",
-      "url": "/egov-location/boundarytypes/{code}",
+      "url": "/karnataka/egov-location/boundarytypes/{code}",
       "displayName": "Update BoundaryType",
       "orderNumber": 1,
       "parentModule": "67",
@@ -638,7 +638,7 @@
     {
       "id": 65,
       "name": "Update CrossHierarchy",
-      "url": "/egov-location/crosshierarchys/{code}",
+      "url": "/karnataka/egov-location/crosshierarchys/{code}",
       "displayName": "Update CrossHierarchy",
       "orderNumber": 1,
       "parentModule": "67",
@@ -650,7 +650,7 @@
     {
       "id": 66,
       "name": "Update HierarchyType",
-      "url": "/egov-location/hierarchytypes/{code}",
+      "url": "/karnataka/egov-location/hierarchytypes/{code}",
       "displayName": "Update HierarchyType",
       "orderNumber": 1,
       "parentModule": "67",
@@ -662,7 +662,7 @@
     {
       "id": 67,
       "name": "Search Boundaries With Mdms",
-      "url": "/egov-location/location/v11/boundarys/_search",
+      "url": "/karnataka/egov-location/location/v11/boundarys/_search",
       "displayName": "Boundaries Mdms Search",
       "orderNumber": 3,
       "parentModule": "67",
@@ -674,7 +674,7 @@
     {
       "id": 68,
       "name": "Get GeoJSON and other geographical data of requested tenant",
-      "url": "/egov-location/location/v11/geography/_search",
+      "url": "/karnataka/egov-location/location/v11/geography/_search",
       "displayName": "Geographical Search",
       "orderNumber": 0,
       "parentModule": "67",
@@ -686,7 +686,7 @@
     {
       "id": 69,
       "name": "Resolve Tenant from Lat/Lng",
-      "url": "/egov-location/location/v11/tenant/_search",
+      "url": "/karnataka/egov-location/location/v11/tenant/_search",
       "displayName": "Tenant Search",
       "orderNumber": 0,
       "parentModule": "67",
@@ -698,7 +698,7 @@
     {
       "id": 1828,
       "name": "mSeva Event Create",
-      "url": "/egov-user-event/v1/events/_create",
+      "url": "/karnataka/egov-user-event/v1/events/_create",
       "displayName": "mSeva Event Notification",
       "orderNumber": 1,
       "enabled": false,
@@ -709,7 +709,7 @@
     {
       "id": 1829,
       "name": "mSeva Event Update",
-      "url": "/egov-user-event/v1/events/_update",
+      "url": "/karnataka/egov-user-event/v1/events/_update",
       "displayName": "mSeva Event Notification",
       "orderNumber": 1,
       "enabled": false,
@@ -720,7 +720,7 @@
     {
       "id": 1830,
       "name": "mSeva Event Search",
-      "url": "/egov-user-event/v1/events/_search",
+      "url": "/karnataka/egov-user-event/v1/events/_search",
       "displayName": "mSeva Event Notification",
       "orderNumber": 1,
       "enabled": false,
@@ -731,7 +731,7 @@
     {
       "id": 1831,
       "name": "mSeva Event Count",
-      "url": "/egov-user-event/v1/events/notifications/_count",
+      "url": "/karnataka/egov-user-event/v1/events/notifications/_count",
       "displayName": "mSeva Event Notification",
       "orderNumber": 1,
       "enabled": false,
@@ -742,7 +742,7 @@
     {
       "id": 1832,
       "name": "mSeva Event llt Update",
-      "url": "/egov-user-event/v1/events/lat/_update",
+      "url": "/karnataka/egov-user-event/v1/events/lat/_update",
       "displayName": "mSeva Event Notification",
       "orderNumber": 1,
       "enabled": false,
@@ -786,7 +786,7 @@
 			{
       "id": 1933,
       "name": "Create Assessment registry",
-      "url": "/property-services/assessment/_create",
+      "url": "/karnataka/property-services/assessment/_create",
       "displayName": "Create Assessment Registry",
       "orderNumber": 1,
       "enabled": false,
@@ -797,7 +797,7 @@
     {
       "id": 1934,
       "name": "Update Assessment registry",
-      "url": "/property-services/assessment/_update",
+      "url": "/karnataka/property-services/assessment/_update",
       "displayName": "Update Assessment Registry",
       "orderNumber": 1,
       "enabled": false,
@@ -808,7 +808,7 @@
     {
       "id": 1935,
       "name": "Search Assessment registry",
-      "url": "/property-services/assessment/_search",
+      "url": "/karnataka/property-services/assessment/_search",
       "displayName": "Search Assessment Registry",
       "orderNumber": 3,
       "enabled": false,
@@ -819,7 +819,7 @@
 	 {
       "id": 1895,
       "name": "Create Property registry",
-      "url": "/property-services/property/_create",
+      "url": "/karnataka/property-services/property/_create",
       "displayName": "Create Property Registry",
       "orderNumber": 1,
       "enabled": false,
@@ -830,7 +830,7 @@
     {
       "id": 1896,
       "name": "UpdateCreate Property registry",
-      "url": "/property-services/property/_update",
+      "url": "/karnataka/property-services/property/_update",
       "displayName": "Update Property Registry",
       "orderNumber": 1,
       "enabled": false,
@@ -841,7 +841,7 @@
     {
       "id": 1897,
       "name": "Search Property registry",
-      "url": "/property-services/property/_search",
+      "url": "/karnataka/property-services/property/_search",
       "displayName": "Search Property Registry",
       "orderNumber": 3,
       "enabled": false,
@@ -852,7 +852,7 @@
     {
       "id": 1741,
       "name": "BusinessService Create",
-      "url": "/egov-workflow-v2/egov-wf/businessservice/_create",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/businessservice/_create",
       "parentModule": "",
       "displayName": "BusinessService Create",
       "orderNumber": 0,
@@ -864,7 +864,7 @@
     {
       "id": 1742,
       "name": "BusinessService Update",
-      "url": "/egov-workflow-v2/egov-wf/businessservice/_update",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/businessservice/_update",
       "parentModule": "",
       "displayName": "BusinessService Update",
       "orderNumber": 0,
@@ -876,7 +876,7 @@
     {
       "id": 1743,
       "name": "BusinessService Search",
-      "url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+      "url": "/karnataka/egov-workflow-v2/egov-wf/businessservice/_search",
       "parentModule": "",
       "displayName": "BusinessService Search",
       "orderNumber": 0,
@@ -888,7 +888,7 @@
     {
       "id": 2002,
       "name": "Expense Create",
-      "url": "/echallan-services/eChallan/v1/_create",
+      "url": "/karnataka/echallan-services/eChallan/v1/_create",
       "parentModule": "",
       "displayName": "EChallan Create",
       "orderNumber": 0,
@@ -900,7 +900,7 @@
     {
       "id": 2003,
       "name": "Expense Search",
-      "url": "/echallan-services/eChallan/v1/_search",
+      "url": "/karnataka/echallan-services/eChallan/v1/_search",
       "parentModule": "",
       "displayName": "EChallan Create",
       "orderNumber": 0,
@@ -912,7 +912,7 @@
     {
       "id": 2004,
       "name": "Expense Update",
-      "url": "/echallan-services/eChallan/v1/_update",
+      "url": "/karnataka/echallan-services/eChallan/v1/_update",
       "parentModule": "",
       "displayName": "EChallan Create",
       "orderNumber": 0,
@@ -924,7 +924,7 @@
     {
       "id": 2005,
       "name": "Vendor Create",
-      "url": "/vendor/v1/_create",
+      "url": "/karnataka/vendor/v1/_create",
       "parentModule": "",
       "displayName": "Vendor Create",
       "orderNumber": 0,
@@ -936,7 +936,7 @@
     {
       "id": 2006,
       "name": "Vendor Search",
-      "url": "/vendor/v1/_search",
+      "url": "/karnataka/vendor/v1/_search",
       "parentModule": "",
       "displayName": "Vendor Create",
       "orderNumber": 0,
@@ -948,7 +948,7 @@
     {
       "id": 2007,
       "name": "Update Password",
-      "url": "/user/password/_update",
+      "url": "/karnataka/user/password/_update",
       "parentModule": "",
       "displayName": "Password Update",
       "orderNumber": 4,
@@ -960,7 +960,7 @@
     {
       "id": 2008,
       "name": "Bulk Demand Generation",
-      "url": "/ws-calculator/waterCalculator/_bulkDemand",
+      "url": "/karnataka/ws-calculator/waterCalculator/_bulkDemand",
       "parentModule": "",
       "displayName":"Bulk Demand Generation",
       "orderNumber": 1,
@@ -972,7 +972,7 @@
     {
       "id": 2009,
       "name": "Demand Calculation",
-      "url": "/ws-calculator/waterCalculator/_calculate",
+      "url": "/karnataka/ws-calculator/waterCalculator/_calculate",
       "parentModule": "",
       "displayName": "Demand Calculation",
       "orderNumber": 2,
@@ -984,7 +984,7 @@
     {
       "id": 2010,
       "name": "Meter Demand Calculation",
-      "url": "/ws-calculator/meterConnection/_create",
+      "url": "/karnataka/ws-calculator/meterConnection/_create",
       "parentModule": "",
       "displayName": "Meter Demand Calculation",
       "orderNumber": 3,
@@ -996,7 +996,7 @@
     {
       "id": 2011,
       "name": "Meter Demand search",
-      "url": "/ws-calculator/meterConnection/_search",
+      "url": "/karnataka/ws-calculator/meterConnection/_search",
       "parentModule": "",
       "displayName": "Meter Demand search",
       "orderNumber": 3,
@@ -1008,7 +1008,7 @@
     {
       "id": 2012,
       "name": "Demand Estimate",
-      "url": "/ws-calculator/waterCalculator/_estimate",
+      "url": "/karnataka/ws-calculator/waterCalculator/_estimate",
       "parentModule": "",
       "displayName": "Demand Estimate",
       "orderNumber": 2,
@@ -1020,7 +1020,7 @@
     {
       "id": 2013,
       "name": "Demand Search",
-      "url": "/billing-service/demand/_search",
+      "url": "/karnataka/billing-service/demand/_search",
       "parentModule": "",
       "displayName": "Demand Search",
       "orderNumber": 2,
@@ -1032,7 +1032,7 @@
     {
       "id": 2014,
       "name": "Fech Bill",
-      "url": "/billing-service/bill/v2/_fetchbill",
+      "url": "/karnataka/billing-service/bill/v2/_fetchbill",
       "parentModule": "",
       "displayName": "Fech Bill",
       "orderNumber": 2,
@@ -1044,7 +1044,7 @@
     {
       "id": 2015,
       "name": "create payment",
-      "url": "/collection-services/payments/_create",
+      "url": "/karnataka/collection-services/payments/_create",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
@@ -1056,7 +1056,7 @@
     {
       "id": 2016,
       "name": " payment search",
-      "url": "/collection-services/payments/_search",
+      "url": "/karnataka/collection-services/payments/_search",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
@@ -1080,7 +1080,7 @@
     {
       "id": 2018,
       "name": "pdf create",
-      "url": "/pdf-service/v1/_create",
+      "url": "/karnataka/pdf-service/v1/_create",
       "parentModule": "",
       "displayName": "create pdf",
       "orderNumber": 2,
@@ -1092,7 +1092,7 @@
     {
       "id": 2019,
       "name": "pdf create no save",
-      "url": "/pdf-service/v1/_createnosave",
+      "url": "/karnataka/pdf-service/v1/_createnosave",
       "parentModule": "",
       "displayName": "create pdf no save",
       "orderNumber": 2,
@@ -1104,7 +1104,7 @@
     {
       "id": 2020,
       "name": "pdf search",
-      "url": "/pdf-service/v1/_search",
+      "url": "/karnataka/pdf-service/v1/_search",
       "parentModule": "",
       "displayName": "create pdf search",
       "orderNumber": 2,
@@ -1116,7 +1116,7 @@
     {
       "id": 2021,
       "name": " payment search",
-      "url": "/collection-services/payments/WS/_search",
+      "url": "/karnataka/collection-services/payments/WS/_search",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
@@ -1128,7 +1128,7 @@
     {
       "id": 2022,
       "name": "DSS Dashboard Charts",
-      "url": "/dashboard-analytics/dashboard/getChartV2",
+      "url": "/karnataka/dashboard-analytics/dashboard/getChartV2",
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
@@ -1175,7 +1175,7 @@
  {
       "id": 2026,
       "name": "Expense Update",
-      "url": "/echallan-services/eChallan/v1/_expenseDashboard",
+      "url": "/karnataka/echallan-services/eChallan/v1/_expenseDashboard",
       "parentModule": "",
       "displayName": "get Expense Dashboard",
       "orderNumber": 0,
@@ -1209,7 +1209,7 @@
     {
       "id": 2029,
       "name": "create payment",
-      "url": "/collection-services/payments/EXPENSE/_workflow",
+      "url": "/karnataka/collection-services/payments/EXPENSE/_workflow",
       "parentModule": "",
       "displayName": "create payment",
       "orderNumber": 2,
@@ -1220,7 +1220,7 @@
     }, {
       "id": 2030,
       "name": "Expense Update",
-      "url": "/echallan-services/eChallan/v1/_chalanCollectionData",
+      "url": "/karnataka/echallan-services/eChallan/v1/_chalanCollectionData",
       "parentModule": "",
       "displayName": "get Expense Dashboard",
       "orderNumber": 0,
@@ -1258,7 +1258,7 @@
     {
       "id": 2033,
       "name": "DSS Dashboard Config IFIX",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ifix",
+      "url": "/karnataka/dashboard-analytics/dashboard/getDashboardConfig/ifix",
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
@@ -1270,7 +1270,7 @@
     {
       "id": 2034,
       "name": "Penalty Calculate",
-      "url": "/ws-calculator/waterCalculator/_getPenaltyDetails",
+      "url": "/karnataka/ws-calculator/waterCalculator/_getPenaltyDetails",
       "parentModule": "",
       "displayName": "Penalty Calculate",
       "orderNumber": 2,
@@ -1282,7 +1282,7 @@
     {
       "id": 2035,
       "name": "Demand History",
-      "url": "/billing-service/demand/_history",
+      "url": "/karnataka/billing-service/demand/_history",
       "parentModule": "",
       "displayName": "Demand History",
       "orderNumber": 2,
@@ -1294,7 +1294,7 @@
     {
       "id": 2037,
       "name": "SearchUser",
-      "url": "/user/_searchByTenant",
+      "url": "/karnataka/user/_searchByTenant",
       "displayName": "Search User by tenant",
       "orderNumber": 0,
       "enabled": false,
@@ -1305,7 +1305,7 @@
     {
       "id": 2036,
       "name": "Expense Update",
-      "url": "/echallan-services/eChallan/v1/_updateCreateNoPayment",
+      "url": "/karnataka/echallan-services/eChallan/v1/_updateCreateNoPayment",
       "parentModule": "",
       "displayName": "EChallan Create",
       "orderNumber": 0,
@@ -1353,7 +1353,7 @@
     {
     "id": 2041,
     "name": "Vendor Report",
-    "url": "/vendor/v1/_vendorReport",
+    "url": "/karnataka/vendor/v1/_vendorReport",
     "parentModule": "",
     "displayName": "get vendor report",
     "orderNumber": 2,
@@ -1365,7 +1365,7 @@
   {
       "id": 2042,
       "name": "SearchUserByTenants",
-      "url": "/user/_searchByTenant",
+      "url": "/karnataka/user/_searchByTenant",
       "displayName": "Search User by tenants",
       "orderNumber": 1,
       "enabled": false,
@@ -1376,7 +1376,7 @@
    {
       "id": 2043,
       "name": "Employee Count",
-      "url": "/egov-hrms/employees/v1/_count",
+      "url": "/karnataka/egov-hrms/employees/v1/_count",
       "parentModule": "egov-hrms",
       "displayName": "Employee Count",
       "orderNumber": 0,
@@ -1388,7 +1388,7 @@
     {
       "id": 2044,
       "name": "Employee search list",
-      "url": "/egov-hrms/employees/_searchListOfEmployee",
+      "url": "/karnataka/egov-hrms/employees/_searchListOfEmployee",
       "parentModule": "egov-hrms",
       "displayName": "Employee search list",
       "orderNumber": 0,
@@ -1400,7 +1400,7 @@
    {
       "id": 2045,
       "name": "Delete Token",
-      "url": "/user/_logout",
+      "url": "/karnataka/user/_logout",
       "parentModule": "",
       "displayName": "Delete Token",
       "orderNumber": 1,
