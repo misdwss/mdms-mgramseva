@@ -138,6 +138,11 @@
         "description": "State admin"
     },
     {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS ADMIN",
+      "description": "mdms admin"
+    },
+    {
       "code": "CHAIRMEN",
       "name": "CHAIRMEN",
       "description": "CHAIRMEN"

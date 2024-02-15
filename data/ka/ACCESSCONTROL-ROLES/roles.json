@@ -138,6 +138,11 @@
         "description": "State admin"
     },
     {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS ADMIN",
+      "description": "mdms admin"
+    },
+    {
       "code": "CHAIRMEN",
       "name": "CHAIRMEN",
       "description": "CHAIRMEN"
@@ -145,7 +150,7 @@
     {
       "code": "REVENUE_COLLECTOR",
       "name": "Revenue Collector",
-      "description": "Revenue Collecto"
+      "description": "Revenue Collector"
     },
     {
       "code": "SECRETARY",
