@@ -5,7 +5,7 @@
     {
       "type": "Fixed",
       "subType": "currentMonth",
-      "rate": 0,
+      "rate": 10,
       "amount":null,
       "minAmount": null,
       "applicableAfterDays": 10,
