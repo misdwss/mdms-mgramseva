@@ -1,0 +1,18 @@
+{
+  "tenantId": "mp",
+  "moduleName": "ws-services-masters",
+  "SubCategory": [
+    {
+      "code": "SC",
+      "name": "SC"
+    },
+    {
+      "code": "ST",
+      "name": "ST"
+    },
+    {
+      "code": "GENERAL",
+      "name": "General"
+    }
+  ]
+}
