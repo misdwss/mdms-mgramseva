@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pb.balewal",
+      "code": "mp.balewal",
       "districtCode": "15",
       "population": "156716",
       "malePopulation": "82045",
@@ -13,7 +13,7 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pb.dabour",
+      "code": "mp.dabour",
       "districtCode": "15",
       "population": "116449",
       "malePopulation": "62554",
@@ -24,7 +24,7 @@
     },
 
     {
-      "code": "pb.lalpur",
+      "code": "mp.lalpur",
       "districtCode": "15",
       "population": "17331",
       "malePopulation": "10521",
@@ -34,7 +34,7 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "pb.batarla",
+      "code": "mp.batarla",
       "districtCode": "15",
       "population": "12507",
       "malePopulation": "6810",
