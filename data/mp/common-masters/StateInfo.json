@@ -3,13 +3,13 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "Panjab",
-      "code": "pb",
+      "name": "MadhyaPradesh",
+      "code": "mp",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
-      "bannerUrl": "https://mgramseva-dwss.punjab.gov.in/pb-mgramseva-assets/Punjab-bg-QA.jpg",
-      "logoUrl": "https://mgramseva-dwss.punjab.gov.in/pb-mgramseva-assets/image.png",
-      "logoUrlWhite": "https://mgramseva-dwss.punjab.gov.in/pb-mgramseva-assets/imagewhite.png",
-      "stateLogoURL": "https://mgramseva-dwss.punjab.gov.in/mgramseva-dev-assets/logo/punjab-logo.png",
+      "bannerUrl": "https://naljal-uat.digit.org/naljal-uat-s3/Mysore-Palace-2.jpg",
+      "logoUrl": "https://naljal-uat.digit.org/naljal-uat-s3/image.png",
+      "logoUrlWhite": "https://naljal-uat.digit.org/naljal-uat-s3/imagewhite.png",
+      "stateLogoURL": "https://naljal-uat.digit.org/naljal-uat-s3/logo/Seal_of_Karnataka.svg",
       "hasLocalisation": true,
       "enableWhatsApp": true,
       "defaultUrl": {
@@ -17,10 +17,6 @@
         "employee": "/user/login"
       },
       "languages": [
-        {
-          "label": "ਪੰਜਾਬੀ",
-          "value": "pn_IN"
-        },
         {
           "label": "हिंदी",
           "value": "hi_IN"

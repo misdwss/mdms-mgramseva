@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer": [
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "DEFAULT",
       "receiptFooterContent": [
         {
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -549,7 +549,7 @@
       ]
     },
     {
-      "code": "pb.jalandhar",
+      "code": "mp.jalandhar",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -597,7 +597,7 @@
       ]
     },
     {
-      "code": "pb",
+      "code": "mp",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "code": "pb.jalandhar",
+      "code": "mp.jalandhar",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "code": "pb.jalandhar",
+      "code": "mp.jalandhar",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -741,7 +741,7 @@
       ]
     },
     {
-      "code": "pb.jalandhar",
+      "code": "mp.jalandhar",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "code": "pb.jalandhar",
+      "code": "mp.jalandhar",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -837,7 +837,7 @@
       ]
     },
     {
-      "code": "pb.jalandhar",
+      "code": "mp.jalandhar",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -885,7 +885,7 @@
       ]
     },
     {
-      "code": "pb.jalandhar",
+      "code": "mp.jalandhar",
       "service": "DEFAULT",
       "receiptFooterContent": [
         {
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "code": "pb.amritsar",
+      "code": "mp.amritsar",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
