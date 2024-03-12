@@ -1,0 +1,17 @@
+{
+    "tenantId": "mp.202425",
+    "moduleName": "ws-services-calculation",
+    "Penalty": [
+        {
+            "type": "Fixed",
+            "subType": "currentMonth",
+            "rate": 0,
+            "amount": null,
+            "minAmount": null,
+            "applicableAfterDays": 10,
+            "flatAmount": null,
+            "fromFY": "2023-24",
+            "startingDay": "1/04/2023"
+        }
+    ]
+}

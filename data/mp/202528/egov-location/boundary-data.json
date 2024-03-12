@@ -1,0 +1,62 @@
+{
+    "tenantId": "mp.202528",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PEEPAL KHEDA",
+                "localname": "PEEPAL KHEDA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "mp.202528",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PEEPAL KHEDA",
+                        "localname": "PEEPAL KHEDA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PEEPAL KHEDA",
+                "localname": "PEEPAL KHEDA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "mp.202528",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PEEPAL KHEDA",
+                        "localname": "PEEPAL KHEDA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
