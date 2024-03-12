@@ -1,0 +1,62 @@
+{
+    "tenantId": "mp.202077",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TAKHATPURA",
+                "localname": "TAKHATPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "mp.202077",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "TAKHATPURA",
+                        "localname": "TAKHATPURA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TAKHATPURA",
+                "localname": "TAKHATPURA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "mp.202077",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "TAKHATPURA",
+                        "localname": "TAKHATPURA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
