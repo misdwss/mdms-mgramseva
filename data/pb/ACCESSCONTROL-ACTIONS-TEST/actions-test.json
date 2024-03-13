@@ -2039,6 +2039,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2108,
+      "name": "Add Penalty",
+      "url": "/ws-calculator/waterCalculator/_addPenalty",
+      "parentModule": "",
+      "displayName": "Add Penalty",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }
