@@ -4534,12 +4534,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "COLLECTION_OPERATOR",
-      "actionid": 2108,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "BULK_DEMAND_PROCESSING",
       "actionid": 2108,
       "actioncode": "",
