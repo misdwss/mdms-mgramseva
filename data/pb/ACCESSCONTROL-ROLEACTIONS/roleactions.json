@@ -4519,6 +4519,37 @@
       "actionid": 2086,
       "actioncode": "",
       "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2108,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
