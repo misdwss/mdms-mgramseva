@@ -1,136 +1,161 @@
 {
-  "tenantId": "mp",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
       "code": "ANONYMOUS",
-      "name": "anonymous",
-      "description": "anonymous user"
+      "description": "anonymous user",
+      "name": "anonymous"
     },
     {
       "code": "CITIZEN",
-      "name": "Citizen",
-      "description": "Citizen who can raise complaint"
+      "description": "Citizen who can raise complaint",
+      "name": "Citizen"
     },
     {
       "code": "EMPLOYEE",
-      "name": "Employee",
-      "description": "Default role for all employees"
+      "description": "Default role for all employees",
+      "name": "Employee"
     },
     {
       "code": "SUPERUSER",
-      "name": "Super User",
-      "description": "System Administrator. Can change all master data and has access to all the system screens."
+      "description": "System Administrator. Can change all master data and has access to all the system screens.",
+      "name": "Super User"
     },
     {
       "code": "STADMIN",
-      "name": "State Administrator",
-      "description": "Admin role that as access over a state"
+      "description": "Admin role that as access over a state",
+      "name": "State Administrator"
     },
     {
       "code": "SYSTEM",
-      "name": "System user",
-      "description": "System user role"
+      "description": "System user role",
+      "name": "System user"
     },
     {
       "code": "HRMS_ADMIN",
-      "name": "HRMS_ADMIN",
-      "description": "hrms admin"
+      "description": "hrms admin",
+      "name": "HRMS_ADMIN"
     },
     {
       "code": "SYS_INTEGRATOR_FINANCE",
-      "name": "SYS_INTEGRATOR_FINANCE",
-      "description": "SYS_INTEGRATOR_FINANCE"
+      "description": "SYS_INTEGRATOR_FINANCE",
+      "name": "SYS_INTEGRATOR_FINANCE"
     },
     {
       "code": "WS_CEMP",
-      "name": "WS Counter Employee",
-      "description": "WS counter employee can take action as citizen"
+      "description": "WS counter employee can take action as citizen",
+      "name": "WS Counter Employee"
     },
     {
       "code": "WS_DOC_VERIFIER",
-      "name": "WS Document Verifier",
-      "description": "WS Document Verifier"
+      "description": "WS Document Verifier",
+      "name": "WS Document Verifier"
     },
     {
       "code": "WS_FIELD_INSPECTOR",
-      "name": "WS Field Inspector",
-      "description": "WS Inspector can take action like verify and forword, send back to do"
+      "description": "WS Inspector can take action like verify and forword, send back to do",
+      "name": "WS Field Inspector"
     },
     {
       "code": "WS_APPROVER",
-      "name": "WS Approver",
-      "description": "WS Approver can approve the connection application"
+      "description": "WS Approver can approve the connection application",
+      "name": "WS Approver"
     },
     {
       "code": "WS_CLERK",
-      "name": "WS Clerk",
-      "description": "WS Clerk can activate the connection application"
+      "description": "WS Clerk can activate the connection application",
+      "name": "WS Clerk"
     },
     {
       "code": "SYS_INTEGRATOR_WATER_SEW",
-      "name": "System Integrator W&S",
-      "description": "Role for allowing system integration of Water and Sewerage app with rainmaker"
+      "description": "Role for allowing system integration of Water and Sewerage app with rainmaker",
+      "name": "System Integrator W&S"
     },
     {
       "code": "Property Approver",
-      "name": "Property Approver",
-      "description": "Property Approver"
+      "description": "Property Approver",
+      "name": "Property Approver"
     },
     {
       "code": "Property Verifier",
-      "name": "Property Verifier",
-      "description": "Property Verifier"
+      "description": "Property Verifier",
+      "name": "Property Verifier"
     },
     {
       "code": "PTIS_MASTER",
-      "name": "PTIS Master",
-      "description": "Who has a access to Property Tax Masters"
+      "description": "Who has a access to Property Tax Masters",
+      "name": "PTIS Master"
     },
     {
       "code": "PTIS_ADMIN",
-      "name": "PTIS Admin",
-      "description": "Who has a access to change tax rates, factor etc"
+      "description": "Who has a access to change tax rates, factor etc",
+      "name": "PTIS Admin"
     },
     {
       "code": "GP_ADMIN",
-      "name": "GP Admin",
-      "description": "Who has a access to ws-services"
+      "description": "Who has a access to ws-services",
+      "name": "GP Admin"
     },
     {
       "code": "COLLECTION_OPERATOR",
-      "name": "Collection Operator",
-      "description": "Who has a access to ws-services,demand, bill and payment"
+      "description": "Who has a access to ws-services,demand, bill and payment",
+      "name": "Collection Operator"
     },
     {
       "code": "BULK_DEMAND_PROCESSING",
-      "name": "Bulk Demand Processing",
-      "description": "Who has a access to bulk demand generation,raise bill, downloa bill and receipts"
+      "description": "Who has a access to bulk demand generation,raise bill, downloa bill and receipts",
+      "name": "Bulk Demand Processing"
     },
     {
       "code": "EXPENSE_PROCESSING",
-      "name": "Expense Processing",
-      "description": "Who has a access to create and update expenses"
+      "description": "Who has a access to create and update expenses",
+      "name": "Expense Processing"
     },
     {
       "code": "DASHBOARD_VIEWER",
-      "name": "Dashbaord Viewer",
-      "description": "Who has a access to dashboard of revenue and expenditure"
+      "description": "Who has a access to dashboard of revenue and expenditure",
+      "name": "Dashbaord Viewer"
     },
     {
       "code": "PROFILE_UPDATE",
-      "name": "Profile update",
-      "description": "Who has a access to update their own profile data"
+      "description": "Who has a access to update their own profile data",
+      "name": "Profile update"
     },
     {
       "code": "PSPCL_ADMIN",
-      "name": "PSPCL ADMIN",
-      "description": "Used for PSPCL"
+      "description": "Used for PSPCL",
+      "name": "PSPCL ADMIN"
     },
     {
       "code": "DIV_ADMIN",
-      "name": "DIVISION ADMIN",
-      "description": "Used for Internal team Debug"
+      "description": "Used for Internal team Debug",
+      "name": "DIVISION ADMIN"
+    },
+    {
+      "code": "STATE_ADMIN",
+      "description": "State admin",
+      "name": "STATE ADMIN"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "description": "mdms admin",
+      "name": "MDMS ADMIN"
+    },
+    {
+      "code": "CHAIRMEN",
+      "description": "CHAIRMEN",
+      "name": "CHAIRMEN"
+    },
+    {
+      "code": "REVENUE_COLLECTOR",
+      "description": "Revenue Collector",
+      "name": "Revenue Collector"
+    },
+    {
+      "code": "SECRETARY",
+      "description": "SECRETARY/Treaser",
+      "name": "SECRETARY"
     }
-  ]
+  ],
+  "tenantId": "mp"
 }
