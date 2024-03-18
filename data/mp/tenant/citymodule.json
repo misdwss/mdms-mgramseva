@@ -12,6 +12,17 @@
           "code": "mp"
         }
       ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "mp.testing"
+        }
+      ]
     }
   ]
 }
