@@ -1085,7 +1085,7 @@
       "parentModule": "",
       "path": "",
       "serviceCode": "collection-services",
-      "url": "collection-services/receipts/_search"
+      "url": "/madhyapradesh/collection-services/receipts/_search"
     },
     {
       "code": "null",
