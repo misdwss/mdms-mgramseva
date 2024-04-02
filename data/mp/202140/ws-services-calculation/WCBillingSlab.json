@@ -98,21 +98,21 @@
       "buildingType": "COMMERCIAL",
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
-      "minimumCharge": 100.0
+      "minimumCharge": 60.0
     },
     {
       "id": "7",
       "buildingType": "MIXED",
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
-      "minimumCharge": 100.0
+      "minimumCharge": 60.0
     },
     {
       "id": "8",
       "buildingType": "PUBLICSECTOR",
       "calculationAttribute": "Flat",
       "connectionType": "Non_Metered",
-      "minimumCharge": 100.0
+      "minimumCharge": 60.0
     }
   ]
 }
