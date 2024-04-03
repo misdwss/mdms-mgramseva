@@ -5582,6 +5582,552 @@
       "actionid": 2108,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 69,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 68,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 67,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 58,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 57,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 56,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 54,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 44,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 43,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 42,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 39,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 35,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 34,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 33,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 31,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 18,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 15,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 14,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 13,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 12,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1829,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1828,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2037,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2105,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2106,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2107,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETORY",
+      "actionid": 2108,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
