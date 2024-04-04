@@ -5350,13 +5350,13 @@
     },
     {
       "rolecode": "MDMS_ADMIN",
-      "actionid": 2033,
+      "actionid": 2233,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 2033,
+      "actionid": 2233,
       "actioncode": "",
       "tenantId": "pb"
     }
