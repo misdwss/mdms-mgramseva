@@ -3606,6 +3606,65 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2229,
+      "name": "SearchUserByTenants",
+      "url": "/user/_searchByTenant",
+      "displayName": "Search User by tenants",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.SearchUserByTenants"
+    },
+    {
+      "id": 2230,
+      "name": "MDMS v2 create",
+      "url": "/mdms-v2/schema/v1/_create",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2231,
+      "name": "MDMS v2 Search",
+      "url": "/mdms-v2/schema/v1/_search",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2232,
+      "name": "MDMS v2 (search v2)",
+      "url": "/mdms-v2/v2/_search",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2233,
+      "name": "MDMS v2 (search v2)",
+      "url": "/mdms-v2/v1/_search",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
