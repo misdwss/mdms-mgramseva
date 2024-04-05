@@ -5574,6 +5574,12 @@
       "actionid": 69,
       "rolecode": "SECRETARY",
       "tenantId": "mp"
+    },
+    {
+      "actioncode": "",
+      "actionid": 2046,
+      "rolecode": "EMPLOYEE",
+      "tenantId": "mp"
     }
   ],
   "tenantId": "mp"
