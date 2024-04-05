@@ -1423,6 +1423,21 @@
       "path": "Administration.Delete Token",
       "serviceCode": "ADMIN",
       "url": "/madhyapradesh/user/_logout"
+    },
+    {
+      "id": 2046,
+      "name": "Home",
+      "url": "url",
+      "displayName": "Home",
+      "orderNumber": 1,
+      "parentModule": "hrms",
+      "enabled": true,
+      "serviceCode": "hrms",
+      "code": "null",
+      "path": "0Home",
+      "navigationURL": "/mgramseva-web/employee/",
+      "leftIcon": "dynamic:MuktaHomeIcon",
+      "rightIcon": ""
     }
   ],
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
