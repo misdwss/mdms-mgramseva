@@ -7,7 +7,7 @@
       "code": "mp",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
       "bannerUrl": "https://naljal-uat.digit.org/naljal-uat-s3/Mysore-Palace-2.jpg",
-      "logoUrl": "https://naljal-uat.digit.org/naljal-uat-s3/image.png",
+      "logoUrl": "https://madhyapradesh-s3.s3.ap-south-1.amazonaws.com/image.png",
       "logoUrlWhite": "https://naljal-uat.digit.org/naljal-uat-s3/imagewhite.png",
       "stateLogoURL": "https://naljal-uat.digit.org/naljal-uat-s3/logo/Seal_of_Karnataka.svg",
       "hasLocalisation": true,
