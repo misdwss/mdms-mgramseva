@@ -12,6 +12,28 @@
           "code": "pb"
         }
       ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
+    },
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }
