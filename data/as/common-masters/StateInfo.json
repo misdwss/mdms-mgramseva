@@ -3,7 +3,7 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "Karnataka",
+      "name": "Assam",
       "code": "as",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
       "bannerUrl": "https://naljal-uat.digit.org/naljal-uat-s3/Mysore-Palace-2.jpg",
@@ -18,8 +18,8 @@
       },
       "languages": [
         {
-           "label": "ಕನ್ನಡ",
-           "value": "kn_IN"
+           "label": "অসমীয়া",
+           "value": "as_IN"
         },
         {
           "label": "ENGLISH",
