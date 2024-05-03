@@ -2051,6 +2051,21 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2109,
+      "name": "Home",
+      "url": "url",
+      "displayName": "Home",
+      "orderNumber": 1,
+      "parentModule": "workbench",
+      "enabled": true,
+      "serviceCode": "workbench",
+      "code": "null",
+      "path": "0Home",
+      "navigationURL": "/mgramseva-web/employee/",
+      "leftIcon": "dynamic:MuktaHomeIcon",
+      "rightIcon": ""
     }
   ]
 }
