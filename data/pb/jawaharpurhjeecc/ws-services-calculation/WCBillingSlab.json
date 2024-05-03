@@ -74,7 +74,7 @@
             "buildingType": "COMMERCIAL",
             "calculationAttribute": "Flat",
             "connectionType": "Non_Metered",
-            "minimumCharge": 50
+            "minimumCharge": 600
         },
         {
             "id": "7",
