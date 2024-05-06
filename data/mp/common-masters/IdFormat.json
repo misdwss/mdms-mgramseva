@@ -28,7 +28,7 @@
       "idname": "watercharges.nonmetered.receipt.id"
     },
     {
-      "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_ID_[TENANT_ID]]",
+      "format": "[DISTRICT.CODE][CITY.CODE][SEQ_WS_CON_ID_[TENANT_ID]]",
       "idname": "waterservice.connection.id"
     },
     {
