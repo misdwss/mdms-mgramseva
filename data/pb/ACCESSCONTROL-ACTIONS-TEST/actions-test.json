@@ -782,7 +782,7 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-   		 }, 
+   		 },
 			{
       "id": 1933,
       "name": "Create Assessment registry",
@@ -2066,6 +2066,18 @@
       "navigationURL": "/mgramseva-web/employee/",
       "leftIcon": "dynamic:MuktaHomeIcon",
       "rightIcon": ""
+    },
+    {
+      "id": 2110,
+      "name": "Aggregated Demand Search",
+      "url": "/billing-service/demand/_getAggregateDemandDetails",
+      "parentModule": "",
+      "displayName": "Aggregated Demand Search",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "billing-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
