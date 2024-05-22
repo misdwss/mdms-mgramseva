@@ -2089,7 +2089,8 @@
       "actionid": 2005,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "EXPENSE_PROCESSING",
       "actionid": 2006,
       "actioncode": "",
@@ -2232,7 +2233,8 @@
       "actionid": 2015,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2015,
       "actioncode": "",
@@ -2243,7 +2245,8 @@
       "actionid": 2015,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2016,
       "actioncode": "",
@@ -2260,7 +2263,8 @@
       "actionid": 2016,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2017,
       "actioncode": "",
@@ -2277,7 +2281,8 @@
       "actionid": 2017,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2018,
       "actioncode": "",
@@ -2312,7 +2317,8 @@
       "actionid": 2018,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2019,
       "actioncode": "",
@@ -2347,7 +2353,8 @@
       "actionid": 2019,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2020,
       "actioncode": "",
@@ -2563,7 +2570,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "CITIZEN",
       "actionid": 2023,
       "actioncode": "",
@@ -2581,7 +2588,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-{
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2024,
       "actioncode": "",
@@ -2593,7 +2600,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2026,
       "actioncode": "",
@@ -2605,7 +2612,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
- {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2027,
       "actioncode": "",
@@ -2652,7 +2659,8 @@
       "actionid": 2029,
       "actioncode": "",
       "tenantId": "pb"
-    }, {
+    },
+    {
       "rolecode": "EXPENSE_PROCESSING",
       "actionid": 2029,
       "actioncode": "",
@@ -2663,13 +2671,14 @@
       "actionid": 2029,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2030,
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2030,
       "actioncode": "",
@@ -2681,7 +2690,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2031,
       "actioncode": "",
@@ -2699,19 +2708,19 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	    {
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2034,
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 2034,
       "actioncode": "",
       "tenantId": "pb"
     },
- {
+    {
       "rolecode": "GP_ADMIN",
       "actionid": 2035,
       "actioncode": "",
@@ -2741,7 +2750,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "COLLECTION_OPERATOR",
       "actionid": 1895,
       "actioncode": "",
@@ -2813,245 +2822,210 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 68,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 67,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 60,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 59,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 58,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 57,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 56,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 55,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 54,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 53,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 52,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 50,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 44,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 43,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 42,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 39,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 38,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 37,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 35,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 36,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 34,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 33,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 32,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 31,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 28,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 24,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 23,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 22,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 18,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 15,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 14,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 13,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 12,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 11,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PSPCL_ADMIN",
       "actionid": 2003,
@@ -3328,245 +3302,210 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 68,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 67,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 60,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 59,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 58,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 57,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 56,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 55,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 54,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 53,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 52,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 50,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 44,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 43,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 42,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 39,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 38,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 37,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 35,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 36,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 34,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 33,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 32,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 31,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 28,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 24,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 23,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 22,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 18,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 15,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 14,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 13,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 12,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 11,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "DIV_ADMIN",
       "actionid": 2003,
@@ -3873,19 +3812,19 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2040,
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "DIV_ADMIN",
       "actionid": 2040,
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2040,
       "actioncode": "",
@@ -3921,13 +3860,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "DIV_ADMIN",
       "actionid": 2041,
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2041,
       "actioncode": "",
@@ -4197,7 +4136,8 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {"rolecode": "BULK_DEMAND_PROCESSING",
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
       "actionid": 2049,
       "actioncode": "",
       "tenantId": "pb"
@@ -4207,7 +4147,6 @@
       "actionid": 2050,
       "actioncode": "",
       "tenantId": "pb"
-    },
-
+    }
   ]
 }

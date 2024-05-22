@@ -28,7 +28,8 @@
       "navigationURL": "report/hrms/EmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },{
+    },
+    {
       "id": 13,
       "name": "RainmakerHRMS-EmployeeReport-Metadata",
       "url": "/report/hrms/EmployeeReport/metadata/_get",
@@ -38,7 +39,8 @@
       "serviceCode": "EmployeeReport",
       "code": "null",
       "path": "Employee Report"
-    },{
+    },
+    {
       "id": 14,
       "name": "EmployeeReport",
       "url": "/report/hrms/EmployeeReport/_get",
@@ -60,7 +62,8 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 16,
       "name": "Employee Create",
       "url": "/egov-hrms/employees/_create",
@@ -83,7 +86,8 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 18,
       "name": "SearchUser",
       "url": "/user/_search",
@@ -104,7 +108,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.CreateUsernovalidate"
-    },{
+    },
+    {
       "id": 20,
       "name": "UpdateUserWithoutValidation",
       "url": "/user/users/{id}/_updatenovalidate",
@@ -126,7 +131,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 21,
       "name": "updateUsernovalidate",
       "url": "/user/users/_updatenovalidate",
@@ -136,7 +142,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 22,
       "name": "Get All Actions",
       "url": "/access/v1/actions/_get",
@@ -146,7 +153,8 @@
       "serviceCode": "AccessControl",
       "code": "null",
       "path": "Access Control.Get All Actions"
-    },{
+    },
+    {
       "id": 23,
       "name": "SearchActions",
       "url": "/access/v1/actions/_search",
@@ -233,7 +241,8 @@
       "serviceCode": "AccessControl",
       "code": "null",
       "path": "Access Control.updateRoles"
-    },{
+    },
+    {
       "id": 31,
       "name": "Get Actions from MDMS",
       "url": "/access/v1/actions/mdms/_get",
@@ -244,7 +253,8 @@
       "serviceCode": "AccessControl",
       "code": "null",
       "path": "Access Control.Get Actions from MDMS"
-    },{
+    },
+    {
       "id": 32,
       "name": "Get Roles from MDMS",
       "url": "/access/v1/roles/mdms/_search",
@@ -253,7 +263,8 @@
       "enabled": false,
       "serviceCode": "AccessControl",
       "path": "AccessControl"
-    },{
+    },
+    {
       "id": 33,
       "name": "MDMS Search",
       "url": "/egov-mdms-service/v1/_search",
@@ -275,7 +286,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.GenerateNumber"
-    },{
+    },
+    {
       "id": 35,
       "name": "PGService Transaction Search",
       "url": "/pg-service/transaction/v1/_search",
@@ -750,7 +762,7 @@
       "code": "null",
       "path": ""
     },
- 		{
+    {
       "id": 1899,
       "name": "Create Water Connection",
       "url": "/ws-services/wc/_create",
@@ -761,7 +773,7 @@
       "code": "null",
       "path": ""
     },
- 		{
+    {
       "id": 1900,
       "name": "Search Water Connection",
       "url": "/ws-services/wc/_search",
@@ -782,8 +794,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-   		 }, 
-			{
+    },
+    {
       "id": 1933,
       "name": "Create Assessment registry",
       "url": "/property-services/assessment/_create",
@@ -816,7 +828,7 @@
       "code": "null",
       "path": ""
     },
-	 {
+    {
       "id": 1895,
       "name": "Create Property registry",
       "url": "/property-services/property/_create",
@@ -962,7 +974,7 @@
       "name": "Bulk Demand Generation",
       "url": "/ws-calculator/waterCalculator/_bulkDemand",
       "parentModule": "",
-      "displayName":"Bulk Demand Generation",
+      "displayName": "Bulk Demand Generation",
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "ws-services",
@@ -1137,7 +1149,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 2023,
       "name": " feedback create",
       "url": "/ws-services/wc/_submitfeedback",
@@ -1149,7 +1161,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 2024,
       "name": " feedback search",
       "url": "/ws-services/wc/_getfeedback",
@@ -1160,7 +1172,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2025,
       "name": " Employee Bulk On Board ",
       "url": "/ws-services/wc/_bulkonboard",
@@ -1172,7 +1185,7 @@
       "code": "null",
       "path": ""
     },
- {
+    {
       "id": 2026,
       "name": "Expense Update",
       "url": "/echallan-services/eChallan/v1/_expenseDashboard",
@@ -1183,7 +1196,8 @@
       "serviceCode": "echallan-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2027,
       "name": " feedback search",
       "url": "/ws-services/wc/_revenueDashboard",
@@ -1194,7 +1208,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2028,
       "name": " fuzzy search",
       "url": "/ws-services/wc/fuzzy/_search",
@@ -1217,7 +1232,8 @@
       "serviceCode": "collection-services",
       "code": "null",
       "path": ""
-    }, {
+    },
+    {
       "id": 2030,
       "name": "Expense Update",
       "url": "/echallan-services/eChallan/v1/_chalanCollectionData",
@@ -1228,7 +1244,8 @@
       "serviceCode": "echallan-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2031,
       "name": " feedback search",
       "url": "/ws-services/wc/_revenueCollectionData",
@@ -1247,7 +1264,7 @@
       "displayName": "IFIX",
       "orderNumber": 14,
       "parentModule": "dss-dashboard",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.IFIX",
@@ -1339,29 +1356,29 @@
       "path": ""
     },
     {
-    "id": 2040,
-    "name": " inactive consumer report",
-    "url": "/ws-services/wc/_inactiveConsumerReport",
-    "parentModule": "",
-    "displayName": "get inactive consumer report",
-    "orderNumber": 2,
-    "enabled": false,
-    "serviceCode": "ws-service",
-    "code": "null",
-    "path": ""
-  },
+      "id": 2040,
+      "name": " inactive consumer report",
+      "url": "/ws-services/wc/_inactiveConsumerReport",
+      "parentModule": "",
+      "displayName": "get inactive consumer report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-service",
+      "code": "null",
+      "path": ""
+    },
     {
-    "id": 2041,
-    "name": "Vendor Report",
-    "url": "/vendor/v1/_vendorReport",
-    "parentModule": "",
-    "displayName": "get vendor report",
-    "orderNumber": 2,
-    "enabled": false,
-    "serviceCode": "vendor",
-    "code": "null",
-    "path": ""
-  },
+      "id": 2041,
+      "name": "Vendor Report",
+      "url": "/vendor/v1/_vendorReport",
+      "parentModule": "",
+      "displayName": "get vendor report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 2042,
       "name": "Employee search list",
@@ -1423,29 +1440,29 @@
       "path": ""
     },
     {
-    "id": 2047,
-    "name": "Vendor Report",
-    "url": "/vendor/v1/_vendorReport",
-    "parentModule": "",
-    "displayName": "get vendor report",
-    "orderNumber": 2,
-    "enabled": false,
-    "serviceCode": "vendor",
-    "code": "null",
-    "path": ""
-  },
+      "id": 2047,
+      "name": "Vendor Report",
+      "url": "/vendor/v1/_vendorReport",
+      "parentModule": "",
+      "displayName": "get vendor report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
     {
-    "id": 2048,
-    "name": "Expense Report",
-    "url": "/echallan-services/eChallan/v1/_expenseBillReport",
-    "parentModule": "",
-    "displayName": "get expense bill report",
-    "orderNumber": 2,
-    "enabled": false,
-    "serviceCode": "echallan-services",
-    "code": "null",
-    "path": ""
-  },
+      "id": 2048,
+      "name": "Expense Report",
+      "url": "/echallan-services/eChallan/v1/_expenseBillReport",
+      "parentModule": "",
+      "displayName": "get expense bill report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 2049,
       "name": "Last demandGennerated",
@@ -1458,7 +1475,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 2050,
       "name": "Home",
       "url": "url",
