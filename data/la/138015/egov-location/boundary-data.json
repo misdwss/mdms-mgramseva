@@ -1,0 +1,62 @@
+{
+    "tenantId": "la.138015",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SHAKAR",
+                "localname": "SHAKAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.138015",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SHAKAR",
+                        "localname": "SHAKAR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SHAKAR",
+                "localname": "SHAKAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.138015",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SHAKAR",
+                        "localname": "SHAKAR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

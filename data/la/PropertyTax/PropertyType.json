@@ -1,0 +1,16 @@
+{
+  "tenantId": "la",
+  "moduleName": "PropertyTax",
+  "PropertyType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true
+    }
+  ]
+}

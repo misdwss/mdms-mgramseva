@@ -1,0 +1,21 @@
+{
+  "tenantId": "la",
+  "moduleName": "ws-services-masters",
+  "WSServiceRoles": [
+    {
+      "code": "CHAIRMEN",
+      "name": "CHAIRMEN",
+      "description": "CHAIRMEN"
+    },
+    {
+      "code": "REVENUE_COLLECTOR",
+      "name": "Revenue Collector",
+      "description": "Revenue Collecto"
+    },
+    {
+      "code": "SECRETARY",
+      "name": "SECRETARY",
+      "description": "SECRETARY/Treaser"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tenantId": "la",
+  "moduleName": "common-masters",
+  "CronJobAPIConfig": [
+    {
+      "jobName": "monthly",
+      "active": "false",
+      "method": "POST",
+      "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/false",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "fortnightevening",
+      "active": "true",
+      "method": "POST",
+      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulerpendingcollection",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "monthly",
+      "active": "true",
+      "method": "POST",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermonthsummary",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "fortnightevening",
+      "active": "true",
+      "method": "POST",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulernewexpenditure",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "fortnightevening",
+      "active": "true",
+      "method": "POST",
+      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermarkexpensebill",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "failedbulkdemand",
+      "active": "false",
+      "method": "POST",
+      "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/true",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "dailyevening",
+      "active": "true",
+      "method": "POST",
+      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulerTodaysCollection",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    }
+  ]
+}
