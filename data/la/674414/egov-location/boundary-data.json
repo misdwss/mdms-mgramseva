@@ -1,0 +1,62 @@
+{
+    "tenantId": "la.674414",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "POYAN RURAL",
+                "localname": "POYAN RURAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.674414",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "POYAN RURAL",
+                        "localname": "POYAN RURAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "POYAN RURAL",
+                "localname": "POYAN RURAL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.674414",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "POYAN RURAL",
+                        "localname": "POYAN RURAL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

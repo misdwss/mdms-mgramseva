@@ -1,0 +1,66 @@
+{
+  "tenantId": "la",
+  "moduleName": "Expense",
+  "ExpenseType": [
+    {
+      "name": "Electricity Bill",
+      "code": "ELECTRICITY_BILL",
+      "active": false,
+      "taxHeadCode": "20101"
+    },
+    {
+      "name": "Salary",
+      "code": "SALARY",
+      "active": true,
+      "taxHeadCode": "20201"
+    },
+    {
+      "name": "Machinery Repair",
+      "code": "MACHINERY_REPAIR",
+      "active": true,
+      "taxHeadCode": "20301"
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
+      "active": true,
+      "taxHeadCode": "20401"
+    },
+    {
+      "name": "Chlorination",
+      "code": "CHLORINATION",
+      "active": true,
+      "taxHeadCode": "20303"
+    },
+    {
+      "name": "Water Treatment",
+      "code": "WATER_TREATMENT",
+      "active": false,
+      "taxHeadCode": "20304"
+    },
+    {
+      "name": "Pipeline Repair",
+      "code": "PIPELINE_REPAIR",
+      "active": true,
+      "taxHeadCode": "20302"
+    },
+    {
+      "name": "New Machinery",
+      "code": "NEW_MACHINERY",
+      "active": true,
+      "taxHeadCode": "40101"
+    },
+    {
+      "name": "New Pipeline",
+      "code": "NEW_PIPELINE",
+      "active": false,
+      "taxHeadCode": "40102"
+    },
+    {
+      "name": "Incentives",
+      "code": "INCENTIVES",
+      "active": false,
+      "taxHeadCode": "20202"
+    }
+  ]
+}

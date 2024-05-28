@@ -1,0 +1,62 @@
+{
+    "tenantId": "la.137924",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MANN PANGONG",
+                "localname": "MANN PANGONG",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.137924",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MANN PANGONG",
+                        "localname": "MANN PANGONG",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MANN PANGONG",
+                "localname": "MANN PANGONG",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.137924",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MANN PANGONG",
+                        "localname": "MANN PANGONG",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

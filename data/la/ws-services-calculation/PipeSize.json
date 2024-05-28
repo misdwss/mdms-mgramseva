@@ -1,0 +1,31 @@
+{
+  "tenantId": "la",
+  "moduleName": "ws-services-calculation",
+  "PipeSize": [
+    {
+      "id": "1",
+      "size": 0.25,
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "size": 0.5,
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "size": 0.75,
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "size": 1.0,
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "size": 1.5,
+      "isActive": true
+    }
+  ]
+}

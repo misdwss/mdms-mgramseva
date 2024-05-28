@@ -1,0 +1,62 @@
+{
+    "tenantId": "la.137848",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HEMIS",
+                "localname": "HEMIS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.137848",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HEMIS",
+                        "localname": "HEMIS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HEMIS",
+                "localname": "HEMIS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "la.137848",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HEMIS",
+                        "localname": "HEMIS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
