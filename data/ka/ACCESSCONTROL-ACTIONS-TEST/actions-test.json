@@ -25,10 +25,11 @@
       "serviceCode": "",
       "code": "null",
       "path": "HRMS.Reports.EmployeeReport",
-      "navigationURL": "report/hrms/EmployeeReport",
+      "navigationURL": "employee/hrms/inbox",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },{
+    },
+    {
       "id": 13,
       "name": "RainmakerHRMS-EmployeeReport-Metadata",
       "url": "/karnataka/report/hrms/EmployeeReport/metadata/_get",
@@ -38,7 +39,8 @@
       "serviceCode": "EmployeeReport",
       "code": "null",
       "path": "Employee Report"
-    },{
+    },
+    {
       "id": 14,
       "name": "EmployeeReport",
       "url": "/karnataka/report/hrms/EmployeeReport/_get",
@@ -60,7 +62,8 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 16,
       "name": "Employee Create",
       "url": "/karnataka/egov-hrms/employees/_create",
@@ -83,7 +86,8 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 18,
       "name": "SearchUser",
       "url": "/karnataka/user/_search",
@@ -104,7 +108,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.CreateUsernovalidate"
-    },{
+    },
+    {
       "id": 20,
       "name": "UpdateUserWithoutValidation",
       "url": "/karnataka/user/users/{id}/_updatenovalidate",
@@ -126,7 +131,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 21,
       "name": "updateUsernovalidate",
       "url": "/karnataka/user/users/_updatenovalidate",
@@ -136,7 +142,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 22,
       "name": "Get All Actions",
       "url": "/karnataka/access/v1/actions/_get",
@@ -146,7 +153,8 @@
       "serviceCode": "AccessControl",
       "code": "null",
       "path": "Access Control.Get All Actions"
-    },{
+    },
+    {
       "id": 23,
       "name": "SearchActions",
       "url": "/karnataka/access/v1/actions/_search",
@@ -233,7 +241,8 @@
       "serviceCode": "AccessControl",
       "code": "null",
       "path": "Access Control.updateRoles"
-    },{
+    },
+    {
       "id": 31,
       "name": "Get Actions from MDMS",
       "url": "/karnataka/access/v1/actions/mdms/_get",
@@ -244,7 +253,8 @@
       "serviceCode": "AccessControl",
       "code": "null",
       "path": "Access Control.Get Actions from MDMS"
-    },{
+    },
+    {
       "id": 32,
       "name": "Get Roles from MDMS",
       "url": "/karnataka/access/v1/roles/mdms/_search",
@@ -253,7 +263,8 @@
       "enabled": false,
       "serviceCode": "AccessControl",
       "path": "AccessControl"
-    },{
+    },
+    {
       "id": 33,
       "name": "MDMS Search",
       "url": "/karnataka/egov-mdms-service/v1/_search",
@@ -275,7 +286,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.GenerateNumber"
-    },{
+    },
+    {
       "id": 35,
       "name": "PGService Transaction Search",
       "url": "/karnataka/pg-service/transaction/v1/_search",
@@ -750,7 +762,7 @@
       "code": "null",
       "path": ""
     },
- 		{
+    {
       "id": 1899,
       "name": "Create Water Connection",
       "url": "/karnataka/ws-services/wc/_create",
@@ -761,7 +773,7 @@
       "code": "null",
       "path": ""
     },
- 		{
+    {
       "id": 1900,
       "name": "Search Water Connection",
       "url": "/karnataka/ws-services/wc/_search",
@@ -782,8 +794,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-   		 }, 
-			{
+    },
+    {
       "id": 1933,
       "name": "Create Assessment registry",
       "url": "/karnataka/property-services/assessment/_create",
@@ -816,7 +828,7 @@
       "code": "null",
       "path": ""
     },
-	 {
+    {
       "id": 1895,
       "name": "Create Property registry",
       "url": "/karnataka/property-services/property/_create",
@@ -962,7 +974,7 @@
       "name": "Bulk Demand Generation",
       "url": "/karnataka/ws-calculator/waterCalculator/_bulkDemand",
       "parentModule": "",
-      "displayName":"Bulk Demand Generation",
+      "displayName": "Bulk Demand Generation",
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "ws-services",
@@ -1137,7 +1149,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 2023,
       "name": " feedback create",
       "url": "/karnataka/ws-services/wc/_submitfeedback",
@@ -1149,7 +1161,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 2024,
       "name": " feedback search",
       "url": "/karnataka/ws-services/wc/_getfeedback",
@@ -1160,7 +1172,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2025,
       "name": " Employee Bulk On Board ",
       "url": "/karnataka/ws-services/wc/_bulkonboard",
@@ -1172,7 +1185,7 @@
       "code": "null",
       "path": ""
     },
- {
+    {
       "id": 2026,
       "name": "Expense Update",
       "url": "/karnataka/echallan-services/eChallan/v1/_expenseDashboard",
@@ -1183,7 +1196,8 @@
       "serviceCode": "echallan-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2027,
       "name": " feedback search",
       "url": "/karnataka/ws-services/wc/_revenueDashboard",
@@ -1194,7 +1208,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2028,
       "name": " fuzzy search",
       "url": "/karnataka/ws-services/wc/fuzzy/_search",
@@ -1217,7 +1232,8 @@
       "serviceCode": "collection-services",
       "code": "null",
       "path": ""
-    }, {
+    },
+    {
       "id": 2030,
       "name": "Expense Update",
       "url": "/karnataka/echallan-services/eChallan/v1/_chalanCollectionData",
@@ -1228,7 +1244,8 @@
       "serviceCode": "echallan-services",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2031,
       "name": " feedback search",
       "url": "/karnataka/ws-services/wc/_revenueCollectionData",
@@ -1251,7 +1268,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.IFIX",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/ifix",
+      "navigationURL": "",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -1339,30 +1356,30 @@
       "path": ""
     },
     {
-    "id": 2040,
-    "name": " inactive consumer report",
-    "url": "/karnataka/ws-services/wc/_inactiveConsumerReport",
-    "parentModule": "",
-    "displayName": "get inactive consumer report",
-    "orderNumber": 2,
-    "enabled": false,
-    "serviceCode": "ws-service",
-    "code": "null",
-    "path": ""
-  },
+      "id": 2040,
+      "name": " inactive consumer report",
+      "url": "/karnataka/ws-services/wc/_inactiveConsumerReport",
+      "parentModule": "",
+      "displayName": "get inactive consumer report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-service",
+      "code": "null",
+      "path": ""
+    },
     {
-    "id": 2041,
-    "name": "Vendor Report",
-    "url": "/karnataka/vendor/v1/_vendorReport",
-    "parentModule": "",
-    "displayName": "get vendor report",
-    "orderNumber": 2,
-    "enabled": false,
-    "serviceCode": "vendor",
-    "code": "null",
-    "path": ""
-  },
-  {
+      "id": 2041,
+      "name": "Vendor Report",
+      "url": "/karnataka/vendor/v1/_vendorReport",
+      "parentModule": "",
+      "displayName": "get vendor report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 2042,
       "name": "SearchUserByTenants",
       "url": "/karnataka/user/_searchByTenant",
@@ -1372,8 +1389,8 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.SearchUserByTenants"
-   },
-   {
+    },
+    {
       "id": 2043,
       "name": "Employee Count",
       "url": "/karnataka/egov-hrms/employees/v1/_count",
@@ -1384,7 +1401,7 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 2044,
       "name": "Employee search list",
@@ -1396,8 +1413,8 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
-   },
-   {
+    },
+    {
       "id": 2045,
       "name": "Delete Token",
       "url": "/karnataka/user/_logout",
