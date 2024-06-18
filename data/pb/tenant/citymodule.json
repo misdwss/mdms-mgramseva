@@ -70,6 +70,19 @@
           "code": "pb.testing"
         }
       ]
+    },
+    {
+      "module": "OpenPayment",
+      "code": "OpenPayment",
+      "bannerImage": "",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "pb"
+        },
+        { "code": "pb.abianakhurd" }
+      ]
     }
   ]
 }

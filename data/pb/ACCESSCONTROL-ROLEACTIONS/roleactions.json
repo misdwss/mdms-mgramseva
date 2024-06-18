@@ -6188,6 +6188,12 @@
       "actionid": 2110,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2111,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
