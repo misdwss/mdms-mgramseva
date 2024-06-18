@@ -2099,6 +2099,17 @@
       "serviceCode": "billing-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2111,
+      "name": "Update citymodule",
+      "url": "/mdms-v2/v2/_create/tenant.citymodule",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
