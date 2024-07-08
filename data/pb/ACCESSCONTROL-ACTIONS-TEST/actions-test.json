@@ -2110,6 +2110,18 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2112,
+      "name": "Demand not generated Report",
+      "url": "/ws-services/wc/consumers/demand-not-generated",
+      "parentModule": "",
+      "displayName": "get demand not generated Report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
