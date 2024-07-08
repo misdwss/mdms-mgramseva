@@ -40,6 +40,19 @@
           "code": "pb"
         }
       ]
+    },
+   {
+      "module": "Payment",
+      "code": "Payment",
+      "bannerImage": "",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "pb"
+        },
+        { "code": "pb.abianakhurd" }
+      ]
     }
   ]
 }
