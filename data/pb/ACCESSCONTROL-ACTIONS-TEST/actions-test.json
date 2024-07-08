@@ -3716,6 +3716,18 @@
       "orderNumber": 1,
       "serviceCode": "billing-services",
       "parentModule": ""
+    },
+    {
+      "id": 2237,
+      "name": "Demand not generated Report",
+      "url": "/ws-services/wc/consumers/demand-not-generated",
+      "parentModule": "",
+      "displayName": "get demand not generated Report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
 ]
 }
