@@ -2122,6 +2122,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2113,
+      "name": "Ledger Report",
+      "url": "/ws-services/wc/ledger-report",
+      "parentModule": "",
+      "displayName": "get ledger report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
