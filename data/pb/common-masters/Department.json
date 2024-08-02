@@ -71,6 +71,11 @@
       "name": "DWSS",
       "code": "DWSS",
       "active": true
+    },
+    {
+      "name": "GPWSC",
+      "code": "GPWSC",
+      "active": true
     }
   ]
 }
