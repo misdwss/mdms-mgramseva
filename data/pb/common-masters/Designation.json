@@ -198,12 +198,30 @@
       "code": "DESIG_64",
       "name": "Treasurer",
       "description": "treasurer",
-      "active": true
+      "active": false
     },
     {
       "code": "DESIG_65",
       "name": "Division Admin",
       "description": "Division Admin",
+      "active": false
+    },
+    {
+      "code": "DESIG_66",
+      "name": "SDE",
+      "description": "SDE",
+      "active": true
+    },
+    {
+      "code": "DESIG_67",
+      "name": "JE",
+      "description": "JE",
+      "active": true
+    },
+    {
+      "code": "DESIG_68",
+      "name": "Bill Collector",
+      "description": "Bill Collector",
       "active": true
     }
   ]
