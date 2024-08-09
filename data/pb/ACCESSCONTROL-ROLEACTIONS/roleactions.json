@@ -6296,6 +6296,66 @@
       "actionid": 2113,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GP_ADMIN",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLLECTION_OPERATOR",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BULK_DEMAND_PROCESSING",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EXPENSE_PROCESSING",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SARPANCH",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETARY",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2114,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
