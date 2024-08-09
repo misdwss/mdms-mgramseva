@@ -7051,6 +7051,24 @@
       "actionid": 2238,
       "actioncode": "",
       "tenantId": "pb"
+    },
+        {
+      "rolecode": "SARPANCH",
+      "actionid": 2238,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SECRETARY",
+      "actionid": 2238,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2238,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
 ]
