@@ -3740,6 +3740,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2239,
+      "name": "Monthly Report",
+      "url": "/ws-services/wc/month-report",
+      "parentModule": "",
+      "displayName": "get month report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
 ]
 }
