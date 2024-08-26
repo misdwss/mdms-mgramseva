@@ -19,6 +19,16 @@
                }
             }
          },
+
+         "rate-master":{
+            "iframe-routes":{
+               "dashboard":{
+                  "routePath":"/kibana/app/dashboards#/view/22ed8660-39cf-11ef-841e-251f7e3bc6c7?[…]!t,value:60000),time:(from:now-15m,to:now))",
+                  "isOrigin":true
+               }
+            }
+         },
+            
          "dashboard":{
             "iframe-routes":{
                "pgr":{
