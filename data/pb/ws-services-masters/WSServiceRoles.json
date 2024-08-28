@@ -61,6 +61,21 @@
       "code": "MDMS_ADMIN",
       "name": "MDMS ADMIN",
       "description": "MDMS User that can create and search schema"
+    },
+    {
+      "code": "SARPANCH",
+      "name": "Sarpanch",
+      "description": "Sarpanch has access to roles like expense processing , bulk demand processing ,dashboard viewer , gp admin and  collection operator."
+    },
+    {
+      "code": "SECRETARY",
+      "name": "Secretary",
+      "description": "Secretary has access to roles like expense processing , bulk demand processing ,dashboard viewer , gp admin and  collection operator."
+    },
+    {
+      "code": "REVENUE_COLLECTOR",
+      "name": "Revenue Collector",
+      "description": "Revenue Collector has access to roles like collection operator and dashboard viewer."
     }
   ]
 }
