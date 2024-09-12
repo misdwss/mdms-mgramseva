@@ -29,13 +29,17 @@
                   "title":"DASHBOARD_TITLE_PGR"
                },
                "rate-master":{
-                  "routePath":"/kibana/app/r/s/f95vu?auth_provider_hint=anonymous1",
+                  "routePath":"/kibana/app/dashboards#/view/22ed8660-39cf-11ef-841e-251f7e3bc6c7?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-4y,to:now))&_a=()&show-time-filter=true&hide-filter-bar=true",
                   "isOrigin":true
                },
                "state":{
-                  "routePath":"/kibana/app/r/s/7827u?auth_provider_hint=anonymous1",
+                  "routePath":"/kibana/app/dashboards#/view/73b78d00-436d-11ef-a063-13dbcb395926?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-4y,to:now))&_a=()&show-time-filter=true&hide-filter-bar=true",
                   "isOrigin":true
-               } 
+               },
+               "rollout":{
+                  "routePath":"/kibana/app/dashboards#/view/ac1ee1c0-3832-11ef-841e-251f7e3bc6c7?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-4y,to:now))&_a=()&show-time-filter=true&hide-filter-bar=true",
+                  "isOrigin":true
+               }
             }
          },
          "uploader":{
