@@ -2146,6 +2146,18 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2115,
+      "name": "Push Boundary",
+      "url": "/boundary-service/boundary-relationships/_pushBoundary",
+      "parentModule": "",
+      "displayName": "push boundary",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
