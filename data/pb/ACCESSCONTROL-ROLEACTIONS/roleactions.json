@@ -6374,12 +6374,6 @@
       "actionid": 2115,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2115,
-      "actioncode": "",
-      "tenantId": "pb"
     }
   ]
 }
