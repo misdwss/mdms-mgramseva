@@ -2158,6 +2158,138 @@
       "serviceCode": "boundary-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2116,
+      "name": "Boundary Relationship Create",
+      "url": "/boundary-service/boundary-relationships/_create",
+      "parentModule": "",
+      "displayName": "Boundary Relationship Create",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2117,
+      "name": "Boundary Relationship Search",
+      "url": "/boundary-service/boundary-relationships/_search",
+      "parentModule": "",
+      "displayName": "Boundary Relationship search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2118,
+      "name": "Boundary Relationship Update",
+      "url": "/boundary-service/boundary-relationships/_update",
+      "parentModule": "",
+      "displayName": "Boundary Relationship update",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2119,
+      "name": "Boundary Create",
+      "url": "/boundary-service/boundary/_create",
+      "parentModule": "",
+      "displayName": "Boundary create",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2120,
+      "name": "Boundary Search",
+      "url": "/boundary-service/boundary/_search",
+      "parentModule": "",
+      "displayName": "Boundary search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2121,
+      "name": "Boundary Update",
+      "url": "/boundary-service/boundary/_update",
+      "parentModule": "",
+      "displayName": "Boundary update",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2122,
+      "name": "Boundary hierarchy definition create",
+      "url": "/boundary-service/boundary-hierarchy-definition/_create",
+      "parentModule": "",
+      "displayName": "Boundary hierarchy definition create",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2123,
+      "name": "Boundary hierarchy definition search",
+      "url": "/boundary-service/boundary-hierarchy-definition/_search",
+      "parentModule": "",
+      "displayName": "Boundary hierarchy definition search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2124,
+      "name": "Boundary generate",
+      "url": "/boundary-bulk-bff/v1/boundary/generate",
+      "parentModule": "",
+      "displayName": "Boundary generate",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2125,
+      "name": "Boundary create",
+      "url": "/boundary-bulk-bff/v1/boundary/create",
+      "parentModule": "",
+      "displayName": "Boundary create",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2126,
+      "name": "Boundary search",
+      "url": "/boundary-bulk-bff/v1/boundary/search",
+      "parentModule": "",
+      "displayName": "Boundary search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
