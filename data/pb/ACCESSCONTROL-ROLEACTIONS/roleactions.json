@@ -6518,6 +6518,60 @@
       "actionid": 2123,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2124,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_ADMIN",
+      "actionid": 2124,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2124,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2125,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_ADMIN",
+      "actionid": 2125,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2125,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2126,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_ADMIN",
+      "actionid": 2126,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2126,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

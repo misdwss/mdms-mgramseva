@@ -2254,6 +2254,42 @@
       "serviceCode": "boundary-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2124,
+      "name": "Boundary generate",
+      "url": "/boundary-bulk-bff/v1/boundary/generate",
+      "parentModule": "",
+      "displayName": "Boundary generate",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2125,
+      "name": "Boundary create",
+      "url": "/boundary-bulk-bff/v1/boundary/create",
+      "parentModule": "",
+      "displayName": "Boundary create",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2126,
+      "name": "Boundary search",
+      "url": "/boundary-bulk-bff/v1/boundary/search",
+      "parentModule": "",
+      "displayName": "Boundary search",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "boundary-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
