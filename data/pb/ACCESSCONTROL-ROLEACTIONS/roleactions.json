@@ -6362,6 +6362,18 @@
       "actionid": 2115,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_ADMIN",
+      "actionid": 2115,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2115,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
