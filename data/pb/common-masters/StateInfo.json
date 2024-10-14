@@ -104,6 +104,66 @@
         {
           "label": "rainmaker-mdms",
           "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-tqm",
+          "value": "rainmaker-tqm"
+        },
+        {
+          "label": "rainmaker-payments",
+          "value": "rainmaker-payments"
+        },
+        {
+          "label": "rainmaker-openpayment",
+          "value": "rainmaker-openpayment"
+        },
+        {
+          "label": "rainmaker-openpayment",
+          "value": "rainmaker-openpayment"
+        },
+        {
+          "label": "rainmaker-consumer",
+          "value": "rainmaker-consumer"
+        },
+        {
+          "label": "mgramseva-water-connection",
+          "value": "mgramseva-water-connection"
+        },
+        {
+          "label": "mgramseva-payments",
+          "value": "mgramseva-payments"
+        },
+        {
+          "label": "mgramseva-payments",
+          "value": "mgramseva-payments"
+        },
+        {
+          "label": "mgramseva-common",
+          "value": "mgramseva-common"
+        },
+        {
+          "label": "mgramseva-hr",
+          "value": "mgramseva-hr"
+        },
+        {
+          "label": "mgramseva-feedback",
+          "value": "mgramseva-feedback"
+        },
+        {
+          "label": "mgramseva-expenses",
+          "value": "mgramseva-expenses"
+        },
+        {
+          "label": "mgramseva-dashboard",
+          "value": "mgramseva-dashboard"
+        },
+        {
+          "label": "mgramseva-consumer",
+          "value": "mgramseva-consumer"
+        },
+        {
+          "label": "mgramseva-bill",
+          "value": "mgramseva-bill"
         }
       ]
     }
