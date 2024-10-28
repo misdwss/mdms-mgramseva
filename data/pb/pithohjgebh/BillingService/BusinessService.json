@@ -9,7 +9,7 @@
                 "DD"
             ],
             "partPaymentAllowed": true,
-            "isAdvanceAllowed": false,
+            "isAdvanceAllowed": true,
             "isVoucherCreationEnabled": true,
             "isActive": true,
             "type": "Adhoc"
