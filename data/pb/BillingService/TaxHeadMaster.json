@@ -243,6 +243,17 @@
       "isActualDemand": false,
       "order": "1",
       "isRequired": true
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "EXPENSE.ELECTRICITY_BILL",
+      "name": "Ws advance carry forward",
+      "code": "WS_ADVANCE_CARRYFORWARD_ELECTRICITY",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true,
+      "IsBillamend": false
     }
   ]
 }
